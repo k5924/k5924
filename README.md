@@ -17,3 +17,10 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
 <p align="center"><img align="center"
 src="https://github-readme-stats-zeta-two.vercel.app/api/top-langs?username=k5924&show_icons=true&theme=dark&locale=en&layout=compact"
  alt="k5924" /></p>
+ 
+ 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
+<noscript><a href="https://liberapay.com/k5924/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+
+
