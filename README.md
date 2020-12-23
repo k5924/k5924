@@ -18,9 +18,16 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
 src="https://github-readme-stats-zeta-two.vercel.app/api/top-langs?username=k5924&show_icons=true&theme=dark&locale=en&layout=compact"
  alt="k5924" /></p>
  
- 
+<h3 align="left">Support:</h3>
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
+
 <noscript><a href="https://liberapay.com/k5924/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+
+<p><a href="https://www.buymeacoffee.com/k5924">
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="k5924" /></a></p><br><br>
+
+
 
 
 
