@@ -14,6 +14,11 @@ align="center"
 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
  alt="k1874" height="30" width="40" /></a></p>
 
+<details>
+ <summary>Stats!</summary>
+ ![Kamran's github stats](https://github-readme-stats-k5924.vercel.app/api?username=k5924&count_private=true&show_icons=true&theme=tokyonight)
+</details>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
