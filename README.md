@@ -16,7 +16,6 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 
 <details>
  <summary>:zap: Github Stats</summary>
- <img alt="Kamran's github stats" src="https://github-readme-stats-k5924.vercel.app/api?username=k5924&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
