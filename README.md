@@ -6,18 +6,17 @@
 <a
  href="https://linkedin.com/in/kbhatti5924" target="blank"><img 
 align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
- alt="kbhatti5924" height="30" width="40" /></a>
+src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ alt="kbhatti5924" /></a>
 <a 
 href="https://www.hackerrank.com/k1874" target="blank"><img 
 align="center" 
-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg"
- alt="k1874" height="30" width="40" /></a></p>
+src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+ alt="k1874"/></a></p>
 
 <details>
- <summary>Stats!</summary>
- ![Kamran's github stats](https://github-readme-stats-k5924.vercel.app/api?username=k5924&count_private=true&show_icons=true&theme=tokyonight)
-</details>
+ <summary>:zap: Github Stats</summary>
+ <img alt="Kamran's github stats" src="https://github-readme-stats-k5924.vercel.app/api?username=k5924&count_private=true&show_icons=true&theme=tokyonight" />
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -53,9 +52,10 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
- 
+</details> 
+
 <details>
-<summary>Support me</summary>
+<summary>:moneybag: Support me</summary>
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
 
