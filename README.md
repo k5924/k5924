@@ -22,6 +22,38 @@ src="https://github-readme-stats-k5924.vercel.app/api/top-langs?username=k5924&s
 </details>
  
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 77 Contributions in the Year 2021
+ > 
+> 📦 24.6 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/k5924/k5924/main/charts/bar_graph.png) 
+
+
+ Last Updated on 29/07/2021
 <!--END_SECTION:waka-->
 
  
