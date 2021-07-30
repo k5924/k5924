@@ -22,13 +22,13 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 
 **🐱 My Github Data** 
 
-> 🏆 77 Contributions in the Year 2021
+> 🏆 84 Contributions in the Year 2021
  > 
 > 📦 24.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -49,7 +49,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/k5924/k5924/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/07/2021
+ Last Updated on 30/07/2021
 <!--END_SECTION:waka-->
 </details> 
 
