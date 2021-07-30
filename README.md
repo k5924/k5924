@@ -22,9 +22,9 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 
 **🐱 My Github Data** 
 
-> 🏆 84 Contributions in the Year 2021
+> 🏆 85 Contributions in the Year 2021
  > 
-> 📦 24.6 kB Used in Github's Storage 
+> 📦 24.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
