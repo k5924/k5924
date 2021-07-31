@@ -20,7 +20,7 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 86 Contributions in the Year 2021
+> 🏆 91 Contributions in the Year 2021
  > 
 > 📦 24.7 kB Used in Github's Storage 
  > 
