@@ -14,38 +14,8 @@ align="center"
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
 
-<details>
- <summary>:zap: Github Stats</summary>
-
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 91 Contributions in the Year 2021
- > 
-> 📦 25.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 13 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I Mostly Code in Java** 
-
-```text
-Java                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-JavaScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-
-```
-
-
-
- Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
-</details> 
 
 <details>
 <summary>:moneybag: Support me</summary>
