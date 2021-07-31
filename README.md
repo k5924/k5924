@@ -18,11 +18,9 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
  <summary>:zap: Github Stats</summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
-> 🏆 85 Contributions in the Year 2021
+> 🏆 86 Contributions in the Year 2021
  > 
 > 📦 24.7 kB Used in Github's Storage 
  > 
@@ -44,12 +42,8 @@ Shell                    1 repo              ██░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/k5924/k5924/main/charts/bar_graph.png) 
-
-
- Last Updated on 30/07/2021
+ Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
 </details> 
 
