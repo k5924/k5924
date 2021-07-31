@@ -13,7 +13,8 @@ href="https://www.hackerrank.com/k1874" target="blank"><img
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
-
+<details>
+ <summary>:zap: GitHub Stats!</summary>
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
@@ -95,7 +96,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
  Last Updated on 31/07/2021
 <!--END_SECTION:waka-->
-
+</details>
 <details>
 <summary>:moneybag: Support me</summary>
 
