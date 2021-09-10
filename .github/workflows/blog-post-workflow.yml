@@ -16,6 +16,6 @@ jobs:
         with:
           feed_list: "https://k5924.github.io/index.xml"
           max_post_count: 4
-          template: <table><tr>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline
+          template: '<table><tr>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           commit_message: "UPDATE: BLOG POSTS"
           
