@@ -78,7 +78,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 <details>
  
 <details>
- <summary></summary>
+ <summary>What am I listening to</summary>
  [![Spotify](https://novatorem-k5924.vercel.app/api/spotify)]
  </details>
  
