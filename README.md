@@ -76,10 +76,10 @@ Shell                    1 repo              ██░░░░░░░░░�
 </details>
 
 <details>
- <summary>:headphones: I am currently listening to...</summary>
- <table width="100%"> 
+ <summary>:headphones: I am currently listening to</summary>
+ <table> 
   <tr>
-  <td width="50%">
+  <td>
       
 &nbsp; <br> [![Spotify](https://novatorem-k5924.vercel.app/api/spotify)](https://open.spotify.com/user/kamranbhatti03072001)
 
