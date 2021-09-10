@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamran</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Kamran>
 <h3 align="center">A 3rd Year CS Student at LSBU</h3>
 
 <h3 align="center">Connect with me:</h3>
@@ -63,7 +63,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 </details>
 
 <details>
-<summary>:book: Blog posts</summary>
+<summary>:blue_book: Blog posts</summary>
 <!-- BLOG-POST-LIST:START --><table><tr>
 <td><a href="https://k5924.github.io/p/choosing-a-programming-language/">Choosing a programming language</a><br/>Sun Sep 05 2021 2:19 AM</td></tr></table>
 <table><tr>
