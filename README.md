@@ -66,13 +66,13 @@ Shell                    1 repo              ██░░░░░░░░░�
 <summary>:book: Blog posts</summary>
 <!-- BLOG-POST-LIST:START --><table><tr>
 <td><a href="https://k5924.github.io/p/choosing-a-programming-language/">Choosing a programming language</a><br/>Sun Sep 05 2021 2:19 AM</td></tr></table>
-'<table><tr>
+<table><tr>
 <td><a href="https://k5924.github.io/p/how-investing-works/">How Investing Works</a><br/>Tue Aug 17 2021 12:17 AM</td></tr></table>
-'<table><tr>
+<table><tr>
 <td><a href="https://k5924.github.io/p/how-to-budget/">How to Budget</a><br/>Tue Aug 17 2021 12:14 AM</td></tr></table>
-'<table><tr>
+<table><tr>
 <td><a href="https://k5924.github.io/p/living-at-home-vs-accommodation/">Living at Home vs Accommodation</a><br/>Tue Aug 17 2021 12:12 AM</td></tr></table>
-'<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
 </details>
 
 <details>
