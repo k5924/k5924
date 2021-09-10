@@ -65,6 +65,11 @@ Shell                    1 repo              ██░░░░░░░░░�
 <details>
 <summary>:book: Blog posts</summary>
 <!-- BLOG-POST-LIST:START -->
+- [Choosing a programming language](https://k5924.github.io/p/choosing-a-programming-language/)
+- [How Investing Works](https://k5924.github.io/p/how-investing-works/)
+- [How to Budget](https://k5924.github.io/p/how-to-budget/)
+- [Living at Home vs Accommodation](https://k5924.github.io/p/living-at-home-vs-accommodation/)
+- [Tuition Fee and Maintenance Loan](https://k5924.github.io/p/tuition-fee-and-maintenance-loan/)
 <!-- BLOG-POST-LIST:END -->
 </details>
 
