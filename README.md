@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/k5924/k5924/main/header.png">
 
-<h3 align="center">A 3rd Year CS Student at LSBU</h3>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a
