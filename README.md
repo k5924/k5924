@@ -77,7 +77,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 <details>
  <summary>:headphones: I am currently listening to...</summary>
- [<img src="https://novatorem-5t5wa9mq4-k5924.vercel.app/api/spotify" alt="Kamrans Now Playing" width="350" />]
+ [![Spotify](https://novatorem-k5924.vercel.app/api/spotify)](https://open.spotify.com/user/kamranbhatti03072001)
 </details> 
  
 <details> 
