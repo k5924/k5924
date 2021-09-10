@@ -76,17 +76,10 @@ Shell                    1 repo              ██░░░░░░░░░�
 </details>
 
 <details>
- <summary>What am I listening to</summary>
- <table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> ![Spotify](https://novatorem-5t5wa9mq4-k5924.vercel.app/api/spotify)
-
-  </td>
-  </table>
-</details>
-
+ <summary>:headphones: I am currently listening to...</summary>
+ [<img src="https://novatorem-5t5wa9mq4-k5924.vercel.app/api/spotify-playing" alt="Kamrans Now Playing" width="350" />]
+</details> 
+ 
 <details> 
 <summary>:moneybag: Support me</summary>
 
