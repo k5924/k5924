@@ -61,6 +61,13 @@ Shell                    1 repo              ██░░░░░░░░░�
  Last Updated on 10/09/2021
 <!--END_SECTION:waka-->
 </details>
+
+<details>
+<summary>:book: Blog posts</summary>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</details>
+
 <details>
 <summary>:moneybag: Support me</summary>
 
