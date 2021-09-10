@@ -76,12 +76,11 @@ Shell                    1 repo              ██░░░░░░░░░�
 </details>
 
 <details>
- 
-<details>
  <summary>What am I listening to</summary>
  [![Spotify](https://novatorem-k5924.vercel.app/api/spotify)]
- </details>
- 
+</details>
+
+<details> 
 <summary>:moneybag: Support me</summary>
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
