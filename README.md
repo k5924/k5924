@@ -70,13 +70,13 @@ Shell                    1 repo              ██░░░░░░░░░�
 <details>
 <summary>:blue_book: Blog posts</summary>
 <!-- BLOG-POST-LIST:START --><table><tr>
-<td><a href="https://k5924.github.io/p/choosing-a-programming-language/">Choosing a programming language</a><br/>Sun Sep 05 2021 2:19 AM</td></tr></table>
+<td><a href="https://k5924.github.io/p/vice-chess-engine/">VICE Chess Engine</a><br/>Sun Sep 12 2021 12:09 AM</td></tr></table>
 <table><tr>
-<td><a href="https://k5924.github.io/p/how-investing-works/">How Investing Works</a><br/>Tue Aug 17 2021 12:17 AM</td></tr></table>
+<td><a href="https://k5924.github.io/p/tictactoe/">TicTacToe</a><br/>Sun Sep 12 2021 12:04 AM</td></tr></table>
 <table><tr>
-<td><a href="https://k5924.github.io/p/how-to-budget/">How to Budget</a><br/>Tue Aug 17 2021 12:14 AM</td></tr></table>
+<td><a href="https://k5924.github.io/p/image-processor/">Image Processor</a><br/>Sat Sep 11 2021 11:59 PM</td></tr></table>
 <table><tr>
-<td><a href="https://k5924.github.io/p/living-at-home-vs-accommodation/">Living at Home vs Accommodation</a><br/>Tue Aug 17 2021 12:12 AM</td></tr></table>
+<td><a href="https://k5924.github.io/p/sudoku-solver/">Sudoku Solver</a><br/>Sat Sep 11 2021 11:55 PM</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 </details>
 
