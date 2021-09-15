@@ -116,8 +116,12 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </details> 
 
 <details>
- <summary>What am I watching</summary>
- <script src="https://gist.github.com/k5924/aa9212601cee59dab84ae75a90cc4a5e.js"></script>
+ <summary>:cherry_blossom: My recent AniList activity</summary>
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
+
 </details>
  
 <details> 
