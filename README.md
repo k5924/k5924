@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (03:53, 15 September 2021)
+-   📖 Read chapter 146 of [Blue Lock](https://anilist.co/manga/106130) (03:46, 15 September 2021)
 -   📖 Read chapter 20 - 22 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (03:05, 15 September 2021)
 -   📺 Dropped [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (00:40, 15 September 2021)
 -   📖 Read chapter 31 of [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (22:21, 14 September 2021)
--   📖 Read chapter 62 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/manga/111403) (22:20, 14 September 2021)
--   📖 Read chapter 32 of [Sacrificed](https://anilist.co/manga/133013) (18:02, 14 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
