@@ -97,10 +97,10 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 - 25 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (09:07, 15 September 2021)
 -   📖 Read chapter 8 of [Watashi wo Tabetai, Hitodenashi](https://anilist.co/manga/123777) (08:04, 15 September 2021)
 -   📖 Read chapter 75 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (03:53, 15 September 2021)
 -   📖 Read chapter 146 of [Blue Lock](https://anilist.co/manga/106130) (03:46, 15 September 2021)
--   📖 Read chapter 20 - 22 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (03:05, 15 September 2021)
 -   📺 Dropped [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (00:40, 15 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
