@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 167 of [Solo Leveling](https://anilist.co/manga/105398) (17:48, 15 September 2021)
+-   📖 Read chapter 73 - 74 of [Shark](https://anilist.co/manga/131468) (17:43, 15 September 2021)
+-   📖 Read chapter 84 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (17:38, 15 September 2021)
+-   📖 Read chapter 24 of [Maou-sama ni Shoukan Sareta kedo Kotoba ga Tsuujinai.](https://anilist.co/manga/115735) (17:38, 15 September 2021)
 -   📖 Read chapter 20 - 25 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (09:07, 15 September 2021)
--   📖 Read chapter 8 of [Watashi wo Tabetai, Hitodenashi](https://anilist.co/manga/123777) (08:04, 15 September 2021)
--   📖 Read chapter 75 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (03:53, 15 September 2021)
--   📖 Read chapter 146 of [Blue Lock](https://anilist.co/manga/106130) (03:46, 15 September 2021)
--   📺 Dropped [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (00:40, 15 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
