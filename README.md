@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (20:57, 15 September 2021)
+-   📖 Read chapter 88 of [Oktapbang Sword Master](https://anilist.co/manga/122395) (22:23, 15 September 2021)
+-   📖 Read chapter 79 - 82 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (22:21, 15 September 2021)
+-   📖 Read chapter 48 - 49 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (22:16, 15 September 2021)
 -   📖 Read chapter 19 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (20:54, 15 September 2021)
 -   📖 Read chapter 167 of [Solo Leveling](https://anilist.co/manga/105398) (17:48, 15 September 2021)
--   📖 Read chapter 73 - 74 of [Shark](https://anilist.co/manga/131468) (17:43, 15 September 2021)
--   📖 Read chapter 84 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (17:38, 15 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
