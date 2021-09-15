@@ -91,7 +91,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
  </details>
  
 <details>
-<summary>:blue_book: Blog posts</summary>
+<summary>:blue_book: Most recent blog posts</summary>
 <!-- BLOG-POST-LIST:START --><table><tr>
 <td><a href="https://k5924.github.io/p/vice-chess-engine/">VICE Chess Engine</a><br/>Sun Sep 12 2021 12:09 AM</td></tr></table>
 <table><tr>
@@ -104,7 +104,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </details>
 
 <details>
- <summary>:headphones: I am currently listening to</summary>
+ <summary>:headphones: My recent spotify activity</summary>
  <table> 
   <tr>
   <td>
@@ -131,7 +131,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 </details>
  
 <details> 
-<summary>:moneybag: Support me</summary>
+<summary>:moneybag: Donation links</summary>
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
 
