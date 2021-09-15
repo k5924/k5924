@@ -120,11 +120,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Dropped [Mother of the Goddess’ Dormitory](https://anilist.co/anime/117989) (00:40, 15 September 2021)
 -   📖 Read chapter 31 of [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (22:21, 14 September 2021)
 -   📖 Read chapter 62 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/manga/111403) (22:20, 14 September 2021)
 -   📖 Read chapter 32 of [Sacrificed](https://anilist.co/manga/133013) (18:02, 14 September 2021)
 -   📖 Read chapter 20 - 21 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (18:02, 14 September 2021)
--   📖 Read chapter 222 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:01, 14 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
