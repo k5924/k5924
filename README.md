@@ -18,6 +18,29 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
 <details>
  <summary>:zap: GitHub Stats!</summary>
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.16% 
+🌆 Daytime    161 commits    ██████████░░░░░░░░░░░░░░░   39.56% 
+🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   36.12% 
+🌙 Night      78 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.16%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
+Tuesday      61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.99% 
+Wednesday    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+Friday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+Saturday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Sunday       100 commits    ██████░░░░░░░░░░░░░░░░░░░   24.57%
+
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -58,7 +81,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 </details>
 
@@ -109,15 +132,13 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
  
 <details> 
 <summary>:moneybag: Donation links</summary>
+ 
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/k5924)
+ [![ko-fi](	https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P12XM2D)
+ [![liberapay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/k5924)
+[![github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/k5924)
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P12XM2D)
-
-<noscript><a href="https://liberapay.com/k5924/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-<p><a href="https://www.buymeacoffee.com/k5924">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="k5924" /></a></p><br><br>
 </details>
-
 
 
 
