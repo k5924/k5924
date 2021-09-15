@@ -114,6 +114,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
   </td>
   </table>
 </details> 
+
+<details>
+ <summary>What am I watching</summary>
+ <script src="https://gist.github.com/k5924/aa9212601cee59dab84ae75a90cc4a5e.js"></script>
+</details>
  
 <details> 
 <summary>:moneybag: Support me</summary>
