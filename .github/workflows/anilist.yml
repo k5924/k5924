@@ -15,4 +15,4 @@ jobs:
               uses: pxseu/anilist-readme@v1.2.1
               with:
                   user_id: 5244163
-                  gh_token: ${{ GH_TOKEN }}
+                  gh_token: ${{ secrets.GH_TOKEN }}
