@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 88 of [Oktapbang Sword Master](https://anilist.co/manga/122395) (22:23, 15 September 2021)
--   📖 Read chapter 79 - 82 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (22:21, 15 September 2021)
--   📖 Read chapter 48 - 49 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (22:16, 15 September 2021)
--   📖 Read chapter 19 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (20:54, 15 September 2021)
--   📖 Read chapter 167 of [Solo Leveling](https://anilist.co/manga/105398) (17:48, 15 September 2021)
+-   📖 Read chapter 35 of [Agyeong Hwangnyeonimeun Gwajajibeseo Salgo Sipeo](https://anilist.co/manga/135109) (05:46, 16 September 2021)
+-   📖 Read chapter 42 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (05:18, 16 September 2021)
+-   📖 Read chapter 16 of [Nito no Taidana Isekai Shoukougun: Saijaku Shoku "Healer" nano ni Saikyou wa Cheat desu ka?](https://anilist.co/manga/115604) (05:14, 16 September 2021)
+-   📖 Dropped [The New Gate](https://anilist.co/manga/85978) (05:14, 16 September 2021)
+-   📖 Read chapter 128 of [I Belong to House Castielo](https://anilist.co/manga/106680) (05:13, 16 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
