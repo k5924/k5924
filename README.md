@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 109 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (22:12, 16 September 2021)
+-   📖 Read chapter 211 of [Kakao 79%](https://anilist.co/manga/87411) (22:10, 16 September 2021)
+-   📖 Read chapter 130 of [His Women's University](https://anilist.co/manga/113202) (22:10, 16 September 2021)
 -   📖 Read chapter 41 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (22:09, 16 September 2021)
 -   📖 Read chapter 48 of [Sekai no Owari no Encore](https://anilist.co/manga/86614) (22:09, 16 September 2021)
--   📖 Read chapter 98 of [Second Life Ranker](https://anilist.co/manga/109957) (22:09, 16 September 2021)
--   📖 Read chapter 46 - 47 of [Blue Period](https://anilist.co/manga/107237) (18:38, 16 September 2021)
--   📖 Read chapter 41 - 43 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (15:24, 16 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
