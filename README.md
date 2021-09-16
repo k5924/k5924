@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 46 - 47 of [Blue Period](https://anilist.co/manga/107237) (18:38, 16 September 2021)
 -   📖 Read chapter 41 - 43 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (15:24, 16 September 2021)
 -   📖 Read chapter 321 of [Komi Can't Communicate](https://anilist.co/manga/97852) (09:38, 16 September 2021)
 -   📖 Read chapter 59 of [Caught by the Villain](https://anilist.co/manga/124481) (06:14, 16 September 2021)
 -   📖 Read chapter 35 of [Agyeong Hwangnyeonimeun Gwajajibeseo Salgo Sipeo](https://anilist.co/manga/135109) (05:46, 16 September 2021)
--   📖 Read chapter 42 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (05:18, 16 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
