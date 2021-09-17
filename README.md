@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 - 55 of [Lout of Count’s Family](https://anilist.co/manga/123573) (16:35, 17 September 2021)
 -   📖 Read chapter 28 - 29 of [Chikan Saresou ni Natteiru S-kyuu Bishoujo wo Tasuketara Tonari no Seki no Osananajimi datta](https://anilist.co/manga/125280) (14:51, 17 September 2021)
 -   📖 Read chapter 75 - 77 of [Shark](https://anilist.co/manga/131468) (14:29, 17 September 2021)
 -   📖 Read chapter 44 of [Kaiju No.8](https://anilist.co/manga/120760) (14:26, 17 September 2021)
 -   📖 Read chapter 37 - 38 of [Record of Wortenia War](https://anilist.co/manga/98822) (12:11, 17 September 2021)
--   📖 Read chapter 159 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (12:04, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
