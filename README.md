@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 109 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (22:12, 16 September 2021)
--   📖 Read chapter 211 of [Kakao 79%](https://anilist.co/manga/87411) (22:10, 16 September 2021)
--   📖 Read chapter 130 of [His Women's University](https://anilist.co/manga/113202) (22:10, 16 September 2021)
--   📖 Read chapter 41 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (22:09, 16 September 2021)
--   📖 Read chapter 48 of [Sekai no Owari no Encore](https://anilist.co/manga/86614) (22:09, 16 September 2021)
+-   📖 Read chapter 75 of [Shark](https://anilist.co/manga/131468) (12:13, 17 September 2021)
+-   📖 Read chapter 37 - 38 of [Record of Wortenia War](https://anilist.co/manga/98822) (12:11, 17 September 2021)
+-   📖 Read chapter 159 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (12:04, 17 September 2021)
+-   📖 Read chapter 21 of [Reincarnated as a Dragon Hatchling](https://anilist.co/manga/101468) (11:54, 17 September 2021)
+-   📖 Read chapter 53 - 54 of [Lout of Count’s Family](https://anilist.co/manga/123573) (11:51, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
