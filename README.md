@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 78 - 79 of [Shark](https://anilist.co/manga/131468) (11:42, 18 September 2021)
+-   📖 Read chapter 220 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (11:36, 18 September 2021)
+-   📖 Read chapter 94 of [The Tyrant's Sister](https://anilist.co/manga/115257) (11:34, 18 September 2021)
+-   📖 Read chapter 131 of [Medical Hwansaeng](https://anilist.co/manga/112197) (11:28, 18 September 2021)
 -   📖 Read chapter 25 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (02:51, 18 September 2021)
--   📖 Read chapter 26 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (02:45, 18 September 2021)
--   📖 Read chapter 73 of [Omniscient Reader](https://anilist.co/manga/119257) (20:42, 17 September 2021)
--   📖 Read chapter 67 of [I Woke Up as the Villain](https://anilist.co/manga/126298) (20:36, 17 September 2021)
--   📖 Read chapter 130 of [Medical Hwansaeng](https://anilist.co/manga/112197) (20:33, 17 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
