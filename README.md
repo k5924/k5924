@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Solitary Lady](https://anilist.co/manga/133575) (22:23, 18 September 2021)
+-   📖 Read chapter 100 of [Viral Hit](https://anilist.co/manga/121991) (22:23, 18 September 2021)
 -   📖 Read chapter 72 - 73 of [The Beloved Little Princess](https://anilist.co/manga/117320) (19:47, 18 September 2021)
 -   📖 Read chapter 165 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (19:37, 18 September 2021)
 -   📖 Read chapter 40 of [The Ideal Sponger Life](https://anilist.co/manga/98347) (15:18, 18 September 2021)
--   📖 Read chapter 35 - 40 of [The Newlywed Diary of a Witch and a Dragon](https://anilist.co/manga/126419) (13:38, 18 September 2021)
--   📖 Read chapter 78 - 79 of [Shark](https://anilist.co/manga/131468) (11:42, 18 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
