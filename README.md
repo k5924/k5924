@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [The Ideal Sponger Life](https://anilist.co/manga/98347) (15:18, 18 September 2021)
 -   📖 Read chapter 35 - 40 of [The Newlywed Diary of a Witch and a Dragon](https://anilist.co/manga/126419) (13:38, 18 September 2021)
 -   📖 Read chapter 78 - 79 of [Shark](https://anilist.co/manga/131468) (11:42, 18 September 2021)
 -   📖 Read chapter 220 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (11:36, 18 September 2021)
 -   📖 Read chapter 94 of [The Tyrant's Sister](https://anilist.co/manga/115257) (11:34, 18 September 2021)
--   📖 Read chapter 131 of [Medical Hwansaeng](https://anilist.co/manga/112197) (11:28, 18 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
