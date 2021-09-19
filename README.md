@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (15:21, 19 September 2021)
+-   📖 Read chapter 28 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (15:19, 19 September 2021)
+-   📖 Dropped [The Archmage Returns After 4000 years](https://anilist.co/manga/118424) (15:16, 19 September 2021)
+-   📖 Read chapter 92 of [The Archmage Returns After 4000 years](https://anilist.co/manga/118424) (15:16, 19 September 2021)
 -   📖 Read chapter 51 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:02, 19 September 2021)
--   📖 Read chapter 106 of [Descent of the Demon Master](https://anilist.co/manga/113607) (11:59, 19 September 2021)
--   📖 Read chapter 51 of [Get Schooled](https://anilist.co/manga/128521) (11:29, 19 September 2021)
--   📖 Read chapter 32 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (02:45, 19 September 2021)
--   📖 Read chapter 43 - 44 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (02:00, 19 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
