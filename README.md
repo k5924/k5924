@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Wangnyeoneun Michin Cheogeul Handa](https://anilist.co/manga/136350) (17:22, 19 September 2021)
+-   📖 Read chapter 53 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:15, 19 September 2021)
+-   📖 Read chapter 51 of [Juujika no Rokunin](https://anilist.co/manga/116671) (17:15, 19 September 2021)
+-   📖 Read chapter 246 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (17:14, 19 September 2021)
 -   📖 Read chapter 32 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (15:21, 19 September 2021)
--   📖 Read chapter 28 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (15:19, 19 September 2021)
--   📖 Dropped [The Archmage Returns After 4000 years](https://anilist.co/manga/118424) (15:16, 19 September 2021)
--   📖 Read chapter 92 of [The Archmage Returns After 4000 years](https://anilist.co/manga/118424) (15:16, 19 September 2021)
--   📖 Read chapter 51 of [Teenage Mercenary](https://anilist.co/manga/126297) (12:02, 19 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
