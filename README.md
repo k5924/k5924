@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (02:45, 19 September 2021)
 -   📖 Read chapter 43 - 44 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (02:00, 19 September 2021)
 -   📖 Read chapter 70 of [Positively Yours](https://anilist.co/manga/120440) (02:00, 19 September 2021)
 -   📖 Read chapter 31 of [Bokutachi wa Hanshoku wo Yameta](https://anilist.co/manga/126603) (02:00, 19 September 2021)
 -   📖 Dropped [Makenshi no Maken Niyoru Maken no Tame no Harem Life](https://anilist.co/manga/109170) (23:52, 18 September 2021)
--   📖 Read chapter 40 of [Solitary Lady](https://anilist.co/manga/133575) (22:23, 18 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
