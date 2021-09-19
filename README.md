@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 - 52 of [My Gently Raised Beast](https://anilist.co/manga/127868) (19:51, 19 September 2021)
+-   📖 Read chapter 28 of [Ryoumin 0-Nin Start no Henkyou Ryoushu-sama](https://anilist.co/manga/106770) (19:47, 19 September 2021)
 -   📖 Read chapter 31 of [Wangnyeoneun Michin Cheogeul Handa](https://anilist.co/manga/136350) (17:22, 19 September 2021)
 -   📖 Read chapter 53 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:15, 19 September 2021)
 -   📖 Read chapter 51 of [Juujika no Rokunin](https://anilist.co/manga/116671) (17:15, 19 September 2021)
--   📖 Read chapter 246 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (17:14, 19 September 2021)
--   📖 Read chapter 32 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (15:21, 19 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
