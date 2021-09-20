@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 of [I Shall Master this Family!](https://anilist.co/manga/130429) (01:11, 20 September 2021)
 -   📖 Read chapter 1 - 98 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (00:25, 20 September 2021)
 -   📖 Read chapter 88 of [Beware the Villainess!](https://anilist.co/manga/117540) (00:14, 20 September 2021)
 -   📖 Read chapter 51 - 52 of [My Gently Raised Beast](https://anilist.co/manga/127868) (19:51, 19 September 2021)
 -   📖 Read chapter 28 of [Ryoumin 0-Nin Start no Henkyou Ryoushu-sama](https://anilist.co/manga/106770) (19:47, 19 September 2021)
--   📖 Read chapter 31 of [Wangnyeoneun Michin Cheogeul Handa](https://anilist.co/manga/136350) (17:22, 19 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
