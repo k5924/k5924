@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 237 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (11:50, 20 September 2021)
 -   📖 Read chapter 356 of [Lookism](https://anilist.co/manga/86848) (10:15, 20 September 2021)
 -   📖 Dropped [Kinsou no Vermeil: Gake Petite Majutsushi wa Saikyou no Yaku Wazawai to Mahou Sekai wo Tsuki Susumu](https://anilist.co/manga/118741) (06:21, 20 September 2021)
 -   📖 Read chapter 48 of [I Shall Master this Family!](https://anilist.co/manga/130429) (01:11, 20 September 2021)
 -   📖 Read chapter 1 - 98 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (00:25, 20 September 2021)
--   📖 Read chapter 88 of [Beware the Villainess!](https://anilist.co/manga/117540) (00:14, 20 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
