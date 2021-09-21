@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 14 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (11:44, 21 September 2021)
 -   📖 Read chapter 55 of [Jii-san Baa-san Wakagaeru](https://anilist.co/manga/113984) (09:32, 21 September 2021)
 -   📖 Read chapter 44 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (06:43, 21 September 2021)
 -   📖 Read chapter 90 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (04:08, 21 September 2021)
 -   📖 Read chapter 18 of [The Insipid Prince's Furtive Grab for The Throne](https://anilist.co/manga/118534) (04:07, 21 September 2021)
--   📖 Read chapter 25 of [Realist Maou ni Yoru Seiiki Naki Isekai Kaikaku](https://anilist.co/manga/107611) (21:06, 20 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
