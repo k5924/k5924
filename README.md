@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 158 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (19:04, 21 September 2021)
+-   📖 Read chapter 85 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:55, 21 September 2021)
+-   📖 Read chapter 223 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:54, 21 September 2021)
+-   📖 Read chapter 147 of [Blue Lock](https://anilist.co/manga/106130) (18:54, 21 September 2021)
 -   📖 Read chapter 53 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (16:18, 21 September 2021)
--   📖 Read chapter 77 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (16:18, 21 September 2021)
--   📖 Read chapter 14 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (11:44, 21 September 2021)
--   📖 Read chapter 55 of [Jii-san Baa-san Wakagaeru](https://anilist.co/manga/113984) (09:32, 21 September 2021)
--   📖 Read chapter 44 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (06:43, 21 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
