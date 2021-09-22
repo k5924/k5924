@@ -99,11 +99,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 62 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:18, 22 September 2021)
--   📖 Read chapter 73 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (04:16, 22 September 2021)
--   📖 Read chapter 75 of [The Beloved Little Princess](https://anilist.co/manga/117320) (19:42, 21 September 2021)
--   📖 Read chapter 158 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (19:04, 21 September 2021)
--   📖 Read chapter 85 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:55, 21 September 2021)
+-   📖 Read chapter 168 of [Solo Leveling](https://anilist.co/manga/105398) (18:49, 22 September 2021)
+-   📖 Read chapter 57 - 58 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/manga/123264) (18:45, 22 September 2021)
+-   📖 Read chapter 76 of [The Beloved Little Princess](https://anilist.co/manga/117320) (18:44, 22 September 2021)
+-   📖 Dropped [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (18:40, 22 September 2021)
+-   📖 Read chapter 26 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (18:40, 22 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
