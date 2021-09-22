@@ -99,11 +99,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [My Dress-Up Darling](https://anilist.co/manga/101583) (04:18, 22 September 2021)
+-   📖 Read chapter 73 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (04:16, 22 September 2021)
 -   📖 Read chapter 75 of [The Beloved Little Princess](https://anilist.co/manga/117320) (19:42, 21 September 2021)
 -   📖 Read chapter 158 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (19:04, 21 September 2021)
 -   📖 Read chapter 85 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:55, 21 September 2021)
--   📖 Read chapter 223 of [Tokyo Revengers](https://anilist.co/manga/102988) (18:54, 21 September 2021)
--   📖 Read chapter 147 of [Blue Lock](https://anilist.co/manga/106130) (18:54, 21 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
