@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 95 of [The Tyrant's Sister](https://anilist.co/manga/115257) (04:24, 23 September 2021)
+-   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 2 Part 2](https://anilist.co/anime/116742) (04:23, 23 September 2021)
 -   📖 Read chapter 168 of [Solo Leveling](https://anilist.co/manga/105398) (18:49, 22 September 2021)
 -   📖 Read chapter 57 - 58 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/manga/123264) (18:45, 22 September 2021)
 -   📖 Read chapter 76 of [The Beloved Little Princess](https://anilist.co/manga/117320) (18:44, 22 September 2021)
--   📖 Dropped [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (18:40, 22 September 2021)
--   📖 Read chapter 26 of [Suterareta Tensei Kenja: Mamono no Mori de Saikyou no Daima Teikoku wo Tsukuriageru](https://anilist.co/manga/124832) (18:40, 22 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
