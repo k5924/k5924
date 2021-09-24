@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (10:50, 24 September 2021)
 -   📖 Read chapter 94 - 96 of [The Boxer](https://anilist.co/manga/119174) (14:09, 23 September 2021)
 -   📖 Read chapter 83 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (14:01, 23 September 2021)
 -   📖 Read chapter 95 of [The Tyrant's Sister](https://anilist.co/manga/115257) (04:24, 23 September 2021)
 -   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 2 Part 2](https://anilist.co/anime/116742) (04:23, 23 September 2021)
--   📖 Read chapter 168 of [Solo Leveling](https://anilist.co/manga/105398) (18:49, 22 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
