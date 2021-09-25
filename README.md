@@ -101,11 +101,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (15:18, 25 September 2021)
 -   📖 Read chapter 26 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (08:07, 25 September 2021)
 -   📖 Read chapter 67 of [Real no Heroine wa Irimasen!](https://anilist.co/manga/99461) (08:03, 25 September 2021)
 -   📖 Read chapter 60 of [Caught by the Villain](https://anilist.co/manga/124481) (08:03, 25 September 2021)
 -   📖 Read chapter 27 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (07:56, 25 September 2021)
--   📖 Read chapter 160 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (19:48, 24 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
