@@ -101,11 +101,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:31, 26 September 2021)
 -   📖 Read chapter 247 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (14:04, 26 September 2021)
 -   📖 Read chapter 357 of [Lookism](https://anilist.co/manga/86848) (09:07, 26 September 2021)
 -   📖 Dropped [The Ideal Sponger Life](https://anilist.co/manga/98347) (08:55, 26 September 2021)
 -   📖 Read chapter 52 of [Juujika no Rokunin](https://anilist.co/manga/116671) (23:03, 25 September 2021)
--   📖 Read chapter 45 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (15:18, 25 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
