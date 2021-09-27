@@ -101,11 +101,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 124 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (22:00, 27 September 2021)
 -   📖 Read chapter 59 of [Pumpkin Night](https://anilist.co/manga/103082) (14:38, 27 September 2021)
 -   📖 Read chapter 53 of [I Am the Real One](https://anilist.co/manga/124783) (09:31, 27 September 2021)
 -   📖 Read chapter 86 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (09:28, 27 September 2021)
 -   📖 Read chapter 221 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (09:28, 27 September 2021)
--   📖 Read chapter 212 of [Kakao 79%](https://anilist.co/manga/87411) (09:24, 27 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
