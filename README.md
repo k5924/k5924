@@ -101,11 +101,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 of [I Shall Master this Family!](https://anilist.co/manga/130429) (08:17, 27 September 2021)
--   📖 Read chapter 248 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (08:11, 27 September 2021)
--   📖 Read chapter 99 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (17:30, 26 September 2021)
--   📖 Read chapter 52 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:31, 26 September 2021)
--   📖 Read chapter 247 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (14:04, 26 September 2021)
+-   📖 Read chapter 53 of [I Am the Real One](https://anilist.co/manga/124783) (09:31, 27 September 2021)
+-   📖 Read chapter 86 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (09:28, 27 September 2021)
+-   📖 Read chapter 221 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (09:28, 27 September 2021)
+-   📖 Read chapter 212 of [Kakao 79%](https://anilist.co/manga/87411) (09:24, 27 September 2021)
+-   📖 Read chapter 131 of [His Women's University](https://anilist.co/manga/113202) (09:23, 27 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
