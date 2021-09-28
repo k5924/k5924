@@ -101,11 +101,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (07:15, 28 September 2021)
 -   📖 Read chapter 22 - 24 of [Raise wa Tanin ga Ii](https://anilist.co/manga/99897) (07:07, 28 September 2021)
 -   📖 Read chapter 20 of [A-Rank Boukensha no Slow Life](https://anilist.co/manga/109849) (06:59, 28 September 2021)
 -   📖 Read chapter 118 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (05:07, 28 September 2021)
 -   📖 Read chapter 61 of [Caught by the Villain](https://anilist.co/manga/124481) (05:05, 28 September 2021)
--   📖 Read chapter 96 - 97 of [The Tyrant's Sister](https://anilist.co/manga/115257) (04:08, 28 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
