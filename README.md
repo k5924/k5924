@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [Hokkaido Gals Are Super Adorable!](https://anilist.co/manga/111403) (04:11, 29 September 2021)
 -   📖 Read chapter 224 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:08, 28 September 2021)
 -   📖 Read chapter 52 of [Record of Ragnarok](https://anilist.co/manga/107098) (14:45, 28 September 2021)
 -   📖 Read chapter 59 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/manga/123264) (11:02, 28 September 2021)
 -   📖 Read chapter 88 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (07:15, 28 September 2021)
--   📖 Read chapter 22 - 24 of [Raise wa Tanin ga Ii](https://anilist.co/manga/99897) (07:07, 28 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
