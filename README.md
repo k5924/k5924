@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 of [My Father is a Tyrant](https://anilist.co/manga/127453) (04:11, 30 September 2021)
+-   📖 Read chapter 86 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:25, 30 September 2021)
+-   📖 Read chapter 51 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (04:19, 30 September 2021)
+-   📖 Read chapter 31 - 32 of [My Father is a Tyrant](https://anilist.co/manga/127453) (04:12, 30 September 2021)
 -   📖 Read chapter 86 - 87 of [Villainess in Love](https://anilist.co/manga/115387) (17:45, 29 September 2021)
 -   📖 Read chapter 98 of [The Tyrant's Sister](https://anilist.co/manga/115257) (17:24, 29 September 2021)
--   📖 Read chapter 42 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/manga/116333) (17:24, 29 September 2021)
--   📖 Read chapter 38 of [Berserk of Gluttony](https://anilist.co/manga/101625) (17:24, 29 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
