@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:50, 30 September 2021)
+-   📖 Read chapter 32 of [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:49, 30 September 2021)
 -   📖 Read chapter 33 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:51, 30 September 2021)
 -   📖 Read chapter 42 of [The Elder Sister-Like One](https://anilist.co/manga/87234) (17:13, 30 September 2021)
 -   📖 Read chapter 45 of [Kaiju No.8](https://anilist.co/manga/120760) (17:11, 30 September 2021)
--   📖 Read chapter 196 - 197 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (17:11, 30 September 2021)
--   📖 Read chapter 53 of [Record of Ragnarok](https://anilist.co/manga/107098) (17:06, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
