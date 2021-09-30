@@ -100,11 +100,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 84 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (05:44, 30 September 2021)
--   📖 Read chapter 86 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (04:25, 30 September 2021)
--   📖 Read chapter 51 of [Father, I Don't Want this Marriage](https://anilist.co/manga/130300) (04:19, 30 September 2021)
--   📖 Read chapter 31 - 32 of [My Father is a Tyrant](https://anilist.co/manga/127453) (04:12, 30 September 2021)
--   📖 Read chapter 86 - 87 of [Villainess in Love](https://anilist.co/manga/115387) (17:45, 29 September 2021)
+-   📖 Read chapter 42 of [The Elder Sister-Like One](https://anilist.co/manga/87234) (17:13, 30 September 2021)
+-   📖 Read chapter 45 of [Kaiju No.8](https://anilist.co/manga/120760) (17:11, 30 September 2021)
+-   📖 Read chapter 196 - 197 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (17:11, 30 September 2021)
+-   📖 Read chapter 53 of [Record of Ragnarok](https://anilist.co/manga/107098) (17:06, 30 September 2021)
+-   📖 Read chapter 53 of [Juujika no Rokunin](https://anilist.co/manga/116671) (17:02, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
