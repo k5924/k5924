@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 222 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (08:44, 01 October 2021)
+-   📖 Read chapter 99 of [The Tyrant's Sister](https://anilist.co/manga/115257) (08:27, 01 October 2021)
 -   📖 Dropped [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:50, 30 September 2021)
 -   📖 Read chapter 32 of [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:49, 30 September 2021)
 -   📖 Read chapter 33 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:51, 30 September 2021)
--   📖 Read chapter 42 of [The Elder Sister-Like One](https://anilist.co/manga/87234) (17:13, 30 September 2021)
--   📖 Read chapter 45 of [Kaiju No.8](https://anilist.co/manga/120760) (17:11, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
