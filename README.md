@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 - 40 of [Tokkiwa Heukpyobeomui Gongsaeng Gwangye](https://anilist.co/manga/134556) (21:20, 01 October 2021)
+-   📖 Read chapter 48 of [Blue Period](https://anilist.co/manga/107237) (21:11, 01 October 2021)
 -   📖 Read chapter 161 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (15:13, 01 October 2021)
 -   📖 Read chapter 110 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (12:28, 01 October 2021)
 -   📖 Plans to read [[Oshi no Ko]](https://anilist.co/manga/117195) (10:06, 01 October 2021)
--   📖 Read chapter 222 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (08:44, 01 October 2021)
--   📖 Read chapter 99 of [The Tyrant's Sister](https://anilist.co/manga/115257) (08:27, 01 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
