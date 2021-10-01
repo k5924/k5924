@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [[Oshi no Ko]](https://anilist.co/manga/117195) (10:06, 01 October 2021)
 -   📖 Read chapter 222 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (08:44, 01 October 2021)
 -   📖 Read chapter 99 of [The Tyrant's Sister](https://anilist.co/manga/115257) (08:27, 01 October 2021)
 -   📖 Dropped [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:50, 30 September 2021)
 -   📖 Read chapter 32 of [Kenshirou ni Yoroshiku](https://anilist.co/manga/116734) (20:49, 30 September 2021)
--   📖 Read chapter 33 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:51, 30 September 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
