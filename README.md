@@ -99,11 +99,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 213 of [Kakao 79%](https://anilist.co/manga/87411) (08:07, 02 October 2021)
 -   📖 Read chapter 27 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (00:22, 02 October 2021)
 -   📖 Read chapter 28 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (00:15, 02 October 2021)
 -   📖 Read chapter 57 of [[Oshi no Ko]](https://anilist.co/manga/117195) (23:15, 01 October 2021)
 -   📖 Read chapter 39 - 40 of [Tokkiwa Heukpyobeomui Gongsaeng Gwangye](https://anilist.co/manga/134556) (21:20, 01 October 2021)
--   📖 Read chapter 48 of [Blue Period](https://anilist.co/manga/107237) (21:11, 01 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
