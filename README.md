@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (07:19, 03 October 2021)
+-   📖 Read chapter 46 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (07:17, 03 October 2021)
 -   📖 Read chapter 17 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:55, 02 October 2021)
 -   📖 Read chapter 36 of [Isekai Yakkyoku](https://anilist.co/manga/99024) (11:34, 02 October 2021)
 -   📖 Read chapter 71 of [Positively Yours](https://anilist.co/manga/120440) (08:17, 02 October 2021)
--   📖 Read chapter 213 of [Kakao 79%](https://anilist.co/manga/87411) (08:07, 02 October 2021)
--   📖 Read chapter 27 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (00:22, 02 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
