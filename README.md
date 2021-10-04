@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (00:19, 04 October 2021)
+-   📖 Read chapter 132 - 133 of [His Women's University](https://anilist.co/manga/113202) (00:17, 04 October 2021)
 -   📖 Read chapter 63 of [My Master, the Wolf Queen](https://anilist.co/manga/109437) (08:23, 03 October 2021)
 -   📖 Read chapter 74 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (07:19, 03 October 2021)
 -   📖 Read chapter 46 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (07:17, 03 October 2021)
--   📖 Read chapter 17 of [Shiotaiou no Satou-san ga Ore ni dake Amai @comic](https://anilist.co/manga/123130) (16:55, 02 October 2021)
--   📖 Read chapter 36 of [Isekai Yakkyoku](https://anilist.co/manga/99024) (11:34, 02 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
