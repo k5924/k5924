@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 of [The Tyrant's Sister](https://anilist.co/manga/115257) (16:16, 04 October 2021)
+-   📖 Read chapter 249 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (16:16, 04 October 2021)
 -   📖 Read chapter 50 of [I Shall Master this Family!](https://anilist.co/manga/130429) (09:21, 04 October 2021)
 -   📖 Read chapter 16 of [Kindan Shitei de Breakthrough: Boy Meets Satan](https://anilist.co/manga/124853) (09:17, 04 October 2021)
 -   📖 Read chapter 45 - 46 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (09:01, 04 October 2021)
--   📖 Read chapter 100 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (00:19, 04 October 2021)
--   📖 Read chapter 132 - 133 of [His Women's University](https://anilist.co/manga/113202) (00:17, 04 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
