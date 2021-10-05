@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 of [A-Rank Boukensha no Slow Life](https://anilist.co/manga/109849) (15:57, 05 October 2021)
 -   📖 Read chapter 23 - 24 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (22:02, 04 October 2021)
 -   📖 Read chapter 87 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:52, 04 October 2021)
 -   📖 Read chapter 33 - 34 of [Tensei Goblin Dakedo Shitsumon Aru?](https://anilist.co/manga/120236) (21:51, 04 October 2021)
 -   📖 Read chapter 33 of [Magi Craft Meister](https://anilist.co/manga/99920) (21:36, 04 October 2021)
--   📖 Read chapter 100 of [The Tyrant's Sister](https://anilist.co/manga/115257) (16:16, 04 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
