@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 119 - 120 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (19:07, 06 October 2021)
+-   📖 Read chapter 87 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:14, 06 October 2021)
+-   📖 Read chapter 358 of [Lookism](https://anilist.co/manga/86848) (18:13, 06 October 2021)
 -   📖 Read chapter 30 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (18:09, 06 October 2021)
 -   📖 Read chapter 100 of [Second Life Ranker](https://anilist.co/manga/109957) (18:06, 06 October 2021)
--   📖 Read chapter 17 of [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://anilist.co/manga/122604) (04:26, 06 October 2021)
--   📖 Read chapter 225 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:29, 05 October 2021)
--   📖 Read chapter 21 of [A-Rank Boukensha no Slow Life](https://anilist.co/manga/109849) (15:57, 05 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
