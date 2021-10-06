@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (18:09, 06 October 2021)
+-   📖 Read chapter 100 of [Second Life Ranker](https://anilist.co/manga/109957) (18:06, 06 October 2021)
 -   📖 Read chapter 17 of [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://anilist.co/manga/122604) (04:26, 06 October 2021)
 -   📖 Read chapter 225 of [Tokyo Revengers](https://anilist.co/manga/102988) (19:29, 05 October 2021)
 -   📖 Read chapter 21 of [A-Rank Boukensha no Slow Life](https://anilist.co/manga/109849) (15:57, 05 October 2021)
--   📖 Read chapter 23 - 24 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (22:02, 04 October 2021)
--   📖 Read chapter 87 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:52, 04 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
