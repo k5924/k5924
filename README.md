@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 129 of [I Belong to House Castielo](https://anilist.co/manga/106680) (09:32, 07 October 2021)
 -   📖 Read chapter 58 of [[Oshi no Ko]](https://anilist.co/manga/117195) (04:06, 07 October 2021)
 -   📖 Read chapter 119 - 120 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (19:07, 06 October 2021)
 -   📖 Read chapter 87 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:14, 06 October 2021)
 -   📖 Read chapter 358 of [Lookism](https://anilist.co/manga/86848) (18:13, 06 October 2021)
--   📖 Read chapter 30 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (18:09, 06 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
