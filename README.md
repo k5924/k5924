@@ -95,11 +95,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (09:16, 08 October 2021)
 -   📖 Read chapter 33 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (09:08, 08 October 2021)
 -   📖 Read chapter 62 of [Caught by the Villain](https://anilist.co/manga/124481) (09:04, 08 October 2021)
 -   📖 Read chapter 31 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (08:57, 08 October 2021)
 -   📖 Read chapter 54 of [So I'm a Spider, So What?](https://anilist.co/manga/86952) (20:08, 07 October 2021)
--   📖 Read chapter 46 of [Kaiju No.8](https://anilist.co/manga/120760) (19:54, 07 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
