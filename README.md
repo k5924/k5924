@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 223 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (21:19, 09 October 2021)
+-   📖 Read chapter 54 of [Juujika no Rokunin](https://anilist.co/manga/116671) (21:16, 09 October 2021)
+-   📖 Read chapter 41 of [Fuufu Ijou, Koibito Miman.](https://anilist.co/manga/105011) (21:14, 09 October 2021)
 -   📖 Read chapter 36 - 37 of [Chronicles of an Aristocrat Reborn in Another World](https://anilist.co/manga/103238) (13:48, 09 October 2021)
 -   📖 Read chapter 28 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (12:35, 09 October 2021)
--   📖 Read chapter 47 - 48 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (12:32, 09 October 2021)
--   📖 Read chapter 29 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (12:24, 09 October 2021)
--   📖 Read chapter 72 of [Positively Yours](https://anilist.co/manga/120440) (12:21, 09 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
