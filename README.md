@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 97 - 98 of [God of Blackfield](https://anilist.co/manga/118267) (11:07, 09 October 2021)
--   📖 Read chapter 101 - 102 of [Viral Hit](https://anilist.co/manga/121991) (11:02, 09 October 2021)
--   📖 Read chapter 33 - 34 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (10:59, 09 October 2021)
--   📖 Read chapter 89 - 90 of [Oktapbang Sword Master](https://anilist.co/manga/122395) (10:54, 09 October 2021)
--   📖 Read chapter 71 - 72 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (10:53, 09 October 2021)
+-   📖 Read chapter 132 - 133 of [Medical Hwansaeng](https://anilist.co/manga/112197) (11:35, 09 October 2021)
+-   📖 Read chapter 322 - 324 of [Komi Can't Communicate](https://anilist.co/manga/97852) (11:32, 09 October 2021)
+-   📖 Read chapter 31 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (11:30, 09 October 2021)
+-   📖 Read chapter 148 of [Blue Lock](https://anilist.co/manga/106130) (11:29, 09 October 2021)
+-   📖 Read chapter 31 of [I Got Caught Up In a Hero Summons, but the Other World was at Peace!](https://anilist.co/manga/112956) (11:08, 09 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
