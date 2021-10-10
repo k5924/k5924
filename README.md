@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 78 - 80 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (14:07, 10 October 2021)
--   📖 Read chapter 20 - 22 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (13:59, 10 October 2021)
--   📖 Read chapter 41 - 43 of [Solitary Lady](https://anilist.co/manga/133575) (13:56, 10 October 2021)
--   📖 Read chapter 52 - 54 of [Get Schooled](https://anilist.co/manga/128521) (13:56, 10 October 2021)
--   📖 Read chapter 68 - 70 of [I Woke Up as the Villain](https://anilist.co/manga/126298) (13:50, 10 October 2021)
+-   📖 Read chapter 107 - 109 of [Descent of the Demon Master](https://anilist.co/manga/113607) (14:50, 10 October 2021)
+-   📖 Read chapter 29 - 30 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (14:35, 10 October 2021)
+-   📖 Read chapter 53 - 54 of [My Gently Raised Beast](https://anilist.co/manga/127868) (14:32, 10 October 2021)
+-   📖 Read chapter 77 - 85 of [The Beloved Little Princess](https://anilist.co/manga/117320) (14:22, 10 October 2021)
+-   📖 Read chapter 78 - 81 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (14:09, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
