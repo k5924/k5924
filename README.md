@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 54 - 55 of [I Am the Real One](https://anilist.co/manga/124783) (12:11, 10 October 2021)
--   📖 Read chapter 252 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (11:25, 10 October 2021)
--   📖 Read chapter 134 of [Medical Hwansaeng](https://anilist.co/manga/112197) (07:29, 10 October 2021)
--   📖 Read chapter 73 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:24, 10 October 2021)
--   📖 Read chapter 103 of [Viral Hit](https://anilist.co/manga/121991) (07:21, 10 October 2021)
+-   📖 Read chapter 78 - 80 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (14:07, 10 October 2021)
+-   📖 Read chapter 20 - 22 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (13:59, 10 October 2021)
+-   📖 Read chapter 41 - 43 of [Solitary Lady](https://anilist.co/manga/133575) (13:56, 10 October 2021)
+-   📖 Read chapter 52 - 54 of [Get Schooled](https://anilist.co/manga/128521) (13:56, 10 October 2021)
+-   📖 Read chapter 68 - 70 of [I Woke Up as the Villain](https://anilist.co/manga/126298) (13:50, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
