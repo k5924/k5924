@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 134 of [Medical Hwansaeng](https://anilist.co/manga/112197) (07:29, 10 October 2021)
+-   📖 Read chapter 73 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (07:24, 10 October 2021)
+-   📖 Read chapter 103 of [Viral Hit](https://anilist.co/manga/121991) (07:21, 10 October 2021)
+-   📖 Read chapter 101 of [The Tyrant's Sister](https://anilist.co/manga/115257) (07:16, 10 October 2021)
 -   📖 Read chapter 223 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (21:19, 09 October 2021)
--   📖 Read chapter 54 of [Juujika no Rokunin](https://anilist.co/manga/116671) (21:16, 09 October 2021)
--   📖 Read chapter 41 of [Fuufu Ijou, Koibito Miman.](https://anilist.co/manga/105011) (21:14, 09 October 2021)
--   📖 Read chapter 36 - 37 of [Chronicles of an Aristocrat Reborn in Another World](https://anilist.co/manga/103238) (13:48, 09 October 2021)
--   📖 Read chapter 28 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (12:35, 09 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
