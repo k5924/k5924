@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 - 49 of [Totsuide kita Yome Aisouwarai Bakari Shiteru](https://anilist.co/manga/114164) (21:06, 10 October 2021)
+-   📖 Read chapter 36 - 355 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/manga/101722) (21:06, 10 October 2021)
 -   📖 Read chapter 107 - 109 of [Descent of the Demon Master](https://anilist.co/manga/113607) (14:50, 10 October 2021)
 -   📖 Read chapter 29 - 30 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (14:35, 10 October 2021)
 -   📖 Read chapter 53 - 54 of [My Gently Raised Beast](https://anilist.co/manga/127868) (14:32, 10 October 2021)
--   📖 Read chapter 77 - 85 of [The Beloved Little Princess](https://anilist.co/manga/117320) (14:22, 10 October 2021)
--   📖 Read chapter 78 - 81 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (14:09, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
