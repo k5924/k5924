@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 48 - 49 of [Totsuide kita Yome Aisouwarai Bakari Shiteru](https://anilist.co/manga/114164) (21:06, 10 October 2021)
--   📖 Read chapter 36 - 355 of [An Archdemon's Dilemma: How to Love Your Elf Bride](https://anilist.co/manga/101722) (21:06, 10 October 2021)
--   📖 Read chapter 107 - 109 of [Descent of the Demon Master](https://anilist.co/manga/113607) (14:50, 10 October 2021)
--   📖 Read chapter 29 - 30 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (14:35, 10 October 2021)
--   📖 Read chapter 53 - 54 of [My Gently Raised Beast](https://anilist.co/manga/127868) (14:32, 10 October 2021)
+-   📖 Read chapter 81 - 84 of [Shark](https://anilist.co/manga/131468) (22:08, 10 October 2021)
+-   📖 Read chapter 35 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (21:52, 10 October 2021)
+-   📖 Read chapter 239 - 240 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (21:49, 10 October 2021)
+-   📖 Read chapter 40 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (21:38, 10 October 2021)
+-   📖 Read chapter 64 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:38, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
