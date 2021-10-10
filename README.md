@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 81 - 84 of [Shark](https://anilist.co/manga/131468) (22:08, 10 October 2021)
+-   📖 Read chapter 53 - 54 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:19, 10 October 2021)
+-   📖 Read chapter 101 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (22:15, 10 October 2021)
+-   📖 Read chapter 81 - 87 of [Shark](https://anilist.co/manga/131468) (22:14, 10 October 2021)
 -   📖 Read chapter 35 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (21:52, 10 October 2021)
 -   📖 Read chapter 239 - 240 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (21:49, 10 October 2021)
--   📖 Read chapter 40 of [I'm a "Behemoth," an S-Ranked Monster, but Mistaken for a Cat, I Live as an Elf Girl's Pet](https://anilist.co/manga/103034) (21:38, 10 October 2021)
--   📖 Read chapter 64 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (21:38, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
