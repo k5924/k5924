@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 - 90 of [Shark](https://anilist.co/manga/131468) (13:43, 11 October 2021)
 -   📖 Read chapter 51 of [I Shall Master this Family!](https://anilist.co/manga/130429) (09:40, 11 October 2021)
 -   📖 Read chapter 47 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (09:37, 11 October 2021)
 -   📖 Read chapter 37 of [Agyeong Hwangnyeonimeun Gwajajibeseo Salgo Sipeo](https://anilist.co/manga/135109) (09:35, 11 October 2021)
 -   📖 Read chapter 32 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (09:34, 11 October 2021)
--   📖 Read chapter 47 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (09:33, 11 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
