@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 - 42 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (08:38, 11 October 2021)
+-   📖 Read chapter 134 of [His Women's University](https://anilist.co/manga/113202) (08:37, 11 October 2021)
+-   📖 Read chapter 64 of [My Master, the Wolf Queen](https://anilist.co/manga/109437) (08:34, 11 October 2021)
+-   📖 Read chapter 253 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (08:31, 11 October 2021)
 -   📖 Read chapter 76 of [Mushoku Tensei: Jobless Reincarnation](https://anilist.co/manga/85564) (00:02, 11 October 2021)
--   📖 Read chapter 53 - 54 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:19, 10 October 2021)
--   📖 Read chapter 101 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (22:15, 10 October 2021)
--   📖 Read chapter 81 - 87 of [Shark](https://anilist.co/manga/131468) (22:14, 10 October 2021)
--   📖 Read chapter 35 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (21:52, 10 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
