@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (18:51, 11 October 2021)
 -   📖 Read chapter 13 of [Enzai de Shokei Sareta Koushaku Reijou wa Konse de wa Mofu Kami-sama to Odayaka ni Sugoshitai](https://anilist.co/manga/121312) (15:17, 11 October 2021)
 -   📖 Read chapter 88 - 90 of [Shark](https://anilist.co/manga/131468) (13:43, 11 October 2021)
 -   📖 Read chapter 51 of [I Shall Master this Family!](https://anilist.co/manga/130429) (09:40, 11 October 2021)
 -   📖 Read chapter 47 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (09:37, 11 October 2021)
--   📖 Read chapter 37 of [Agyeong Hwangnyeonimeun Gwajajibeseo Salgo Sipeo](https://anilist.co/manga/135109) (09:35, 11 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
