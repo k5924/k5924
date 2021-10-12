@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Dropped [Transferred to the Gyaru Academy](https://anilist.co/manga/101795) (16:01, 12 October 2021)
+-   📖 Read chapter 226 of [Tokyo Revengers](https://anilist.co/manga/102988) (15:59, 12 October 2021)
+-   📖 Read chapter 34 of [Bokutachi wa Hanshoku wo Yameta](https://anilist.co/manga/126603) (15:59, 12 October 2021)
+-   📖 Read chapter 24 of [Transferred to the Gyaru Academy](https://anilist.co/manga/101795) (15:14, 12 October 2021)
 -   📖 Dropped [Wangnyeoneun Michin Cheogeul Handa](https://anilist.co/manga/136350) (06:48, 12 October 2021)
--   📖 Read chapter 65 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (04:03, 12 October 2021)
--   📖 Read chapter 55 of [My Gently Raised Beast](https://anilist.co/manga/127868) (04:02, 12 October 2021)
--   📖 Read chapter 49 of [Shitsugyou Kenja no Nariagari: Kirawareta Sainou wa Sekai Saikyoudeshita](https://anilist.co/manga/120811) (22:38, 11 October 2021)
--   📖 Read chapter 68 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (18:51, 11 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
