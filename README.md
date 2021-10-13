@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (17:13, 13 October 2021)
+-   📖 Dropped [Reptile Secrets](https://anilist.co/manga/97272) (17:11, 13 October 2021)
+-   📖 Read chapter 27 of [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/manga/102150) (17:10, 13 October 2021)
 -   📖 Read chapter 86 of [The Beloved Little Princess](https://anilist.co/manga/117320) (04:12, 13 October 2021)
 -   📖 Read chapter 23 - 24 of [Rebuild World](https://anilist.co/manga/111212) (04:04, 13 October 2021)
--   📖 Dropped [Transferred to the Gyaru Academy](https://anilist.co/manga/101795) (16:01, 12 October 2021)
--   📖 Read chapter 226 of [Tokyo Revengers](https://anilist.co/manga/102988) (15:59, 12 October 2021)
--   📖 Read chapter 34 of [Bokutachi wa Hanshoku wo Yameta](https://anilist.co/manga/126603) (15:59, 12 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
