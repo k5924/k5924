@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 88 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:57, 13 October 2021)
--   📖 Read chapter 169 of [Solo Leveling](https://anilist.co/manga/105398) (18:25, 13 October 2021)
--   📖 Read chapter 73 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (17:13, 13 October 2021)
--   📖 Dropped [Reptile Secrets](https://anilist.co/manga/97272) (17:11, 13 October 2021)
--   📖 Read chapter 27 of [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/manga/102150) (17:10, 13 October 2021)
+-   📖 Read chapter 49 of [Sekai no Owari no Encore](https://anilist.co/manga/86614) (04:54, 14 October 2021)
+-   📖 Dropped [Rebuild World](https://anilist.co/manga/111212) (04:17, 14 October 2021)
+-   📖 Read chapter 52 of [Isekai Meikyuu de Harem wo](https://anilist.co/manga/99462) (04:16, 14 October 2021)
+-   📖 Read chapter 30 of [Chikan Saresou ni Natteiru S-kyuu Bishoujo wo Tasuketara Tonari no Seki no Osananajimi datta](https://anilist.co/manga/125280) (04:16, 14 October 2021)
+-   📖 Read chapter 59 of [Rettougan no Tensei Majutsushi: Shiitagerareta Moto Yuusha wa Mirai no Sekai wo Yoyuu de Ikinuku](https://anilist.co/manga/109140) (04:16, 14 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
