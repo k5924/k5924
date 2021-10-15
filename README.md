@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 49 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (15:58, 15 October 2021)
+-   📖 Read chapter 9 - 19 of [Killer in Love](https://anilist.co/manga/128163) (15:55, 15 October 2021)
+-   📖 Read chapter 77 of [Omniscient Reader](https://anilist.co/manga/119257) (15:40, 15 October 2021)
 -   📖 Read chapter 162 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (12:33, 15 October 2021)
 -   📖 Dropped [A Royal Princess with Black Hair](https://anilist.co/manga/115263) (12:33, 15 October 2021)
--   📖 Read chapter 36 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (09:57, 15 October 2021)
--   📖 Read chapter 60 - 61 of [A Royal Princess with Black Hair](https://anilist.co/manga/115263) (09:57, 15 October 2021)
--   📖 Read chapter 16 of [Osake no Tame ni Otomege Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita](https://anilist.co/manga/122969) (09:56, 15 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
