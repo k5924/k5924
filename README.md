@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Wandance](https://anilist.co/manga/107321) (19:35, 15 October 2021)
+-   📖 Read chapter 135 of [Medical Hwansaeng](https://anilist.co/manga/112197) (19:31, 15 October 2021)
+-   📖 Read chapter 325 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:29, 15 October 2021)
 -   📖 Dropped [The World is Money and Power](https://anilist.co/manga/110166) (18:37, 15 October 2021)
 -   📖 Read chapter 49 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (15:58, 15 October 2021)
--   📖 Read chapter 9 - 19 of [Killer in Love](https://anilist.co/manga/128163) (15:55, 15 October 2021)
--   📖 Read chapter 77 of [Omniscient Reader](https://anilist.co/manga/119257) (15:40, 15 October 2021)
--   📖 Read chapter 162 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (12:33, 15 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
