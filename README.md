@@ -91,11 +91,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 63 of [Kenja no Mago](https://anilist.co/manga/87293) (18:08, 14 October 2021)
--   📖 Read chapter 58 of [Lout of Count’s Family](https://anilist.co/manga/123573) (18:07, 14 October 2021)
--   📖 Read chapter 47 of [Kaiju No.8](https://anilist.co/manga/120760) (18:06, 14 October 2021)
--   📖 Dropped [The Reason She Lives as a Villainess](https://anilist.co/manga/135404) (18:05, 14 October 2021)
--   📖 Read chapter 102 of [The Tyrant's Sister](https://anilist.co/manga/115257) (18:04, 14 October 2021)
+-   📖 Read chapter 59 of [[Oshi no Ko]](https://anilist.co/manga/117195) (07:53, 15 October 2021)
+-   📖 Read chapter 110 of [Descent of the Demon Master](https://anilist.co/manga/113607) (07:43, 15 October 2021)
+-   📖 Read chapter 55 of [Juujika no Rokunin](https://anilist.co/manga/116671) (07:38, 15 October 2021)
+-   📖 Read chapter 60 of [Rettougan no Tensei Majutsushi: Shiitagerareta Moto Yuusha wa Mirai no Sekai wo Yoyuu de Ikinuku](https://anilist.co/manga/109140) (07:37, 15 October 2021)
+-   📖 Read chapter 101 of [Second Life Ranker](https://anilist.co/manga/109957) (07:36, 15 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
