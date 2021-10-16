@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Solitary Lady](https://anilist.co/manga/133575) (20:48, 16 October 2021)
+-   📖 Read chapter 93 of [Biroe-do](https://anilist.co/manga/127848) (20:16, 16 October 2021)
+-   📖 Read chapter 39 of [Geupsigappa](https://anilist.co/manga/130717) (20:15, 16 October 2021)
 -   📖 Read chapter 37 - 39 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (10:39, 16 October 2021)
 -   📖 Read chapter 48 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (10:38, 16 October 2021)
--   📖 Read chapter 29 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (08:58, 16 October 2021)
--   📖 Read chapter 56 of [I Am the Real One](https://anilist.co/manga/124783) (08:54, 16 October 2021)
--   📖 Read chapter 42 of [Little Rabbit and the Big Bad Leopard](https://anilist.co/manga/134556) (08:24, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
