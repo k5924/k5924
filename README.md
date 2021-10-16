@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [I Won 4 Billion in a Lottery But I Went to Another World](https://anilist.co/manga/98226) (08:09, 16 October 2021)
 -   📖 Read chapter 31 of [Wandance](https://anilist.co/manga/107321) (19:35, 15 October 2021)
 -   📖 Read chapter 135 of [Medical Hwansaeng](https://anilist.co/manga/112197) (19:31, 15 October 2021)
 -   📖 Read chapter 325 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:29, 15 October 2021)
 -   📖 Dropped [The World is Money and Power](https://anilist.co/manga/110166) (18:37, 15 October 2021)
--   📖 Read chapter 49 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (15:58, 15 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
