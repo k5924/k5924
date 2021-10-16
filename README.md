@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 of [I Won 4 Billion in a Lottery But I Went to Another World](https://anilist.co/manga/98226) (08:09, 16 October 2021)
--   📖 Read chapter 31 of [Wandance](https://anilist.co/manga/107321) (19:35, 15 October 2021)
--   📖 Read chapter 135 of [Medical Hwansaeng](https://anilist.co/manga/112197) (19:31, 15 October 2021)
--   📖 Read chapter 325 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:29, 15 October 2021)
--   📖 Dropped [The World is Money and Power](https://anilist.co/manga/110166) (18:37, 15 October 2021)
+-   📖 Read chapter 29 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (08:58, 16 October 2021)
+-   📖 Read chapter 56 of [I Am the Real One](https://anilist.co/manga/124783) (08:54, 16 October 2021)
+-   📖 Read chapter 42 of [Little Rabbit and the Big Bad Leopard](https://anilist.co/manga/134556) (08:24, 16 October 2021)
+-   📖 Read chapter 30 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (08:18, 16 October 2021)
+-   📖 Read chapter 37 - 38 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (08:14, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
