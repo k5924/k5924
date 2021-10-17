@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 75 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (08:50, 17 October 2021)
--   📖 Read chapter 45 of [Ragna Crimson](https://anilist.co/manga/99065) (23:00, 16 October 2021)
--   📖 Read chapter 121 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (22:12, 16 October 2021)
--   📖 Read chapter 224 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (22:06, 16 October 2021)
--   📖 Read chapter 44 of [Solitary Lady](https://anilist.co/manga/133575) (20:48, 16 October 2021)
+-   📖 Dropped [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (09:38, 17 October 2021)
+-   📖 Read chapter 121 - 122 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (09:27, 17 October 2021)
+-   📖 Read chapter 198 - 199 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (09:25, 17 October 2021)
+-   📖 Read chapter 55 of [Get Schooled](https://anilist.co/manga/128521) (09:22, 17 October 2021)
+-   📖 Read chapter 35 of [Sacrificed](https://anilist.co/manga/133013) (09:19, 17 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
