@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (08:50, 17 October 2021)
 -   📖 Read chapter 45 of [Ragna Crimson](https://anilist.co/manga/99065) (23:00, 16 October 2021)
 -   📖 Read chapter 121 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (22:12, 16 October 2021)
 -   📖 Read chapter 224 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (22:06, 16 October 2021)
 -   📖 Read chapter 44 of [Solitary Lady](https://anilist.co/manga/133575) (20:48, 16 October 2021)
--   📖 Read chapter 93 of [Biroe-do](https://anilist.co/manga/127848) (20:16, 16 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
