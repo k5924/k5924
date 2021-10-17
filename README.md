@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (21:08, 17 October 2021)
+-   📖 Read chapter 32 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (21:06, 17 October 2021)
+-   📖 Read chapter 54 of [SPY x FAMILY](https://anilist.co/manga/108556) (20:54, 17 October 2021)
 -   📖 Read chapter 32 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (15:27, 17 October 2021)
 -   📖 Dropped [Jishou F-Rank no Oniisama ga Game de Hyouka sareru Gakuen no Chouten ni Kunrin suru Sou desu yo?](https://anilist.co/manga/101848) (09:38, 17 October 2021)
--   📖 Read chapter 121 - 122 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (09:27, 17 October 2021)
--   📖 Read chapter 198 - 199 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (09:25, 17 October 2021)
--   📖 Read chapter 55 of [Get Schooled](https://anilist.co/manga/128521) (09:22, 17 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
