@@ -90,11 +90,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 135 of [His Women's University](https://anilist.co/manga/113202) (00:05, 18 October 2021)
+-   📖 Read chapter 35 of [Bokutachi wa Hanshoku wo Yameta](https://anilist.co/manga/126603) (00:04, 18 October 2021)
 -   📖 Read chapter 102 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (21:34, 17 October 2021)
 -   📖 Read chapter 36 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (21:08, 17 October 2021)
 -   📖 Read chapter 32 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (21:06, 17 October 2021)
--   📖 Read chapter 54 of [SPY x FAMILY](https://anilist.co/manga/108556) (20:54, 17 October 2021)
--   📖 Read chapter 32 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (15:27, 17 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
