@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 88 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:45, 18 October 2021)
+-   📖 Read chapter 126 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:44, 18 October 2021)
 -   📖 Read chapter 66 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (15:40, 18 October 2021)
 -   📖 Read chapter 123 - 124 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (09:01, 18 October 2021)
 -   📖 Read chapter 33 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (08:49, 18 October 2021)
--   📖 Read chapter 104 of [Viral Hit](https://anilist.co/manga/121991) (08:48, 18 October 2021)
--   📖 Read chapter 135 of [His Women's University](https://anilist.co/manga/113202) (00:05, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
