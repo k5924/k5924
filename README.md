@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 111 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (08:22, 19 October 2021)
+-   📖 Read chapter 91 - 92 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (08:22, 19 October 2021)
+-   📖 Read chapter 42 of [Sensei wa Koi wo Oshierarenai](https://anilist.co/manga/106454) (08:18, 19 October 2021)
+-   📖 Read chapter 17 of [Kyuuketsuki to Yobaretai](https://anilist.co/manga/122128) (08:14, 19 October 2021)
 -   📖 Read chapter 88 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (21:45, 18 October 2021)
--   📖 Read chapter 126 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:44, 18 October 2021)
--   📖 Read chapter 66 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (15:40, 18 October 2021)
--   📖 Read chapter 123 - 124 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (09:01, 18 October 2021)
--   📖 Read chapter 33 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (08:49, 18 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
