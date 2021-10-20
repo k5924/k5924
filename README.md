@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 41 - 42 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:11, 20 October 2021)
--   📖 Read chapter 227 of [Tokyo Revengers](https://anilist.co/manga/102988) (04:09, 20 October 2021)
--   📖 Read chapter 20 of [Maou Gun Saikyou no Majutsushi wa Ningen datta](https://anilist.co/manga/112481) (04:08, 20 October 2021)
--   📖 Read chapter 91 - 95 of [Shark](https://anilist.co/manga/131468) (16:24, 19 October 2021)
--   📖 Read chapter 59 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103850) (16:12, 19 October 2021)
+-   📖 Read chapter 160 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (16:47, 20 October 2021)
+-   📖 Read chapter 89 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:46, 20 October 2021)
+-   📖 Read chapter 326 of [Komi Can't Communicate](https://anilist.co/manga/97852) (16:46, 20 October 2021)
+-   📖 Read chapter 64 of [Kenja no Mago](https://anilist.co/manga/87293) (16:44, 20 October 2021)
+-   📖 Read chapter 74 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:42, 20 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
