@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 - 42 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (04:11, 20 October 2021)
+-   📖 Read chapter 227 of [Tokyo Revengers](https://anilist.co/manga/102988) (04:09, 20 October 2021)
+-   📖 Read chapter 20 of [Maou Gun Saikyou no Majutsushi wa Ningen datta](https://anilist.co/manga/112481) (04:08, 20 October 2021)
 -   📖 Read chapter 91 - 95 of [Shark](https://anilist.co/manga/131468) (16:24, 19 October 2021)
 -   📖 Read chapter 59 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103850) (16:12, 19 October 2021)
--   📖 Read chapter 55 of [Teenage Mercenary](https://anilist.co/manga/126297) (13:21, 19 October 2021)
--   📖 Read chapter 94 of [Biroe-do](https://anilist.co/manga/127848) (10:31, 19 October 2021)
--   📖 Read chapter 56 of [My Gently Raised Beast](https://anilist.co/manga/127868) (10:28, 19 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
