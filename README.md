@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 of [The Tyrant's Sister](https://anilist.co/manga/115257) (19:42, 20 October 2021)
 -   📖 Read chapter 160 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (16:47, 20 October 2021)
 -   📖 Read chapter 89 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:46, 20 October 2021)
 -   📖 Read chapter 326 of [Komi Can't Communicate](https://anilist.co/manga/97852) (16:46, 20 October 2021)
 -   📖 Read chapter 64 of [Kenja no Mago](https://anilist.co/manga/87293) (16:44, 20 October 2021)
--   📖 Read chapter 74 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (16:42, 20 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
