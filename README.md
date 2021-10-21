@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 56 of [Juujika no Rokunin](https://anilist.co/manga/116671) (04:23, 21 October 2021)
--   📖 Read chapter 170 of [Solo Leveling](https://anilist.co/manga/105398) (20:44, 20 October 2021)
--   📖 Read chapter 103 of [The Tyrant's Sister](https://anilist.co/manga/115257) (19:42, 20 October 2021)
--   📖 Read chapter 160 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (16:47, 20 October 2021)
--   📖 Read chapter 89 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (16:46, 20 October 2021)
+-   📖 Read chapter 60 of [[Oshi no Ko]](https://anilist.co/manga/117195) (17:57, 21 October 2021)
+-   📖 Read chapter 130 - 131 of [I Belong to House Castielo](https://anilist.co/manga/106680) (17:52, 21 October 2021)
+-   📖 Read chapter 36 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (17:48, 21 October 2021)
+-   📖 Read chapter 59 of [Lout of Count’s Family](https://anilist.co/manga/123573) (17:46, 21 October 2021)
+-   📖 Read chapter 102 of [Second Life Ranker](https://anilist.co/manga/109957) (17:46, 21 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
