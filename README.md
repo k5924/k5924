@@ -89,11 +89,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 96 of [Shark](https://anilist.co/manga/131468) (20:48, 21 October 2021)
+-   📖 Read chapter 111 of [Descent of the Demon Master](https://anilist.co/manga/113607) (20:44, 21 October 2021)
 -   📖 Read chapter 60 of [[Oshi no Ko]](https://anilist.co/manga/117195) (17:57, 21 October 2021)
 -   📖 Read chapter 130 - 131 of [I Belong to House Castielo](https://anilist.co/manga/106680) (17:52, 21 October 2021)
 -   📖 Read chapter 36 of [Sokkupchingureul Pokguneuro Kiwotseumnida](https://anilist.co/manga/133936) (17:48, 21 October 2021)
--   📖 Read chapter 59 of [Lout of Count’s Family](https://anilist.co/manga/123573) (17:46, 21 October 2021)
--   📖 Read chapter 102 of [Second Life Ranker](https://anilist.co/manga/109957) (17:46, 21 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
