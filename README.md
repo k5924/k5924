@@ -93,11 +93,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 87 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (07:16, 22 October 2021)
+-   📖 Read chapter 51 of [TenPuru -No One Can Live on Loneliness-](https://anilist.co/manga/109122) (07:16, 22 October 2021)
+-   📖 Read chapter 241 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (07:16, 22 October 2021)
 -   📖 Read chapter 54 - 57 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (05:31, 22 October 2021)
 -   📖 Read chapter 96 of [Shark](https://anilist.co/manga/131468) (20:48, 21 October 2021)
--   📖 Read chapter 111 of [Descent of the Demon Master](https://anilist.co/manga/113607) (20:44, 21 October 2021)
--   📖 Read chapter 60 of [[Oshi no Ko]](https://anilist.co/manga/117195) (17:57, 21 October 2021)
--   📖 Read chapter 130 - 131 of [I Belong to House Castielo](https://anilist.co/manga/106680) (17:52, 21 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
