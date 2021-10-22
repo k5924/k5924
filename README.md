@@ -93,11 +93,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Ossan Boukensha Kane no Zenkou](https://anilist.co/manga/111228) (18:44, 22 October 2021)
+-   📖 Read chapter 163 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (18:44, 22 October 2021)
 -   📖 Read chapter 85 - 87 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (07:16, 22 October 2021)
 -   📖 Read chapter 51 of [TenPuru -No One Can Live on Loneliness-](https://anilist.co/manga/109122) (07:16, 22 October 2021)
 -   📖 Read chapter 241 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (07:16, 22 October 2021)
--   📖 Read chapter 54 - 57 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (05:31, 22 October 2021)
--   📖 Read chapter 96 of [Shark](https://anilist.co/manga/131468) (20:48, 21 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
