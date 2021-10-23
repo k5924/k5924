@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 254 of [She's Adopted a High School Boy!](https://anilist.co/manga/101756) (06:59, 23 October 2021)
+-   📖 Read chapter 50 - 51 of [Shitsugyou Kenja no Nariagari: Kirawareta Sainou wa Sekai Saikyoudeshita](https://anilist.co/manga/120811) (06:57, 23 October 2021)
 -   📖 Read chapter 136 of [Medical Hwansaeng](https://anilist.co/manga/112197) (22:06, 22 October 2021)
 -   📖 Read chapter 50 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (21:13, 22 October 2021)
 -   📖 Read chapter 26 of [Ossan Boukensha Kane no Zenkou](https://anilist.co/manga/111228) (18:44, 22 October 2021)
--   📖 Read chapter 163 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (18:44, 22 October 2021)
--   📖 Read chapter 85 - 87 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (07:16, 22 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
