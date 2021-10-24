@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 of [Solitary Lady](https://anilist.co/manga/133575) (14:48, 23 October 2021)
--   📖 Read chapter 22 of [Osananajimi ga Zettai ni Makenai Love Come](https://anilist.co/manga/114015) (14:48, 23 October 2021)
--   📖 Read chapter 136 of [His Women's University](https://anilist.co/manga/113202) (14:47, 23 October 2021)
--   📖 Read chapter 30 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (10:05, 23 October 2021)
--   📖 Read chapter 43 of [Little Rabbit and the Big Bad Leopard](https://anilist.co/manga/134556) (09:54, 23 October 2021)
+-   📖 Read chapter 225 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (07:28, 24 October 2021)
+-   📖 Read chapter 105 of [Viral Hit](https://anilist.co/manga/121991) (07:25, 24 October 2021)
+-   📖 Read chapter 56 of [Get Schooled](https://anilist.co/manga/128521) (07:22, 24 October 2021)
+-   📖 Read chapter 19 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (07:20, 24 October 2021)
+-   📖 Read chapter 33 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (07:20, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
