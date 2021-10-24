@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 225 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (07:28, 24 October 2021)
--   📖 Read chapter 105 of [Viral Hit](https://anilist.co/manga/121991) (07:25, 24 October 2021)
--   📖 Read chapter 56 of [Get Schooled](https://anilist.co/manga/128521) (07:22, 24 October 2021)
--   📖 Read chapter 19 of [Toshiue Elite Onna Kishi ga Boku no Mae de dake Kawaii](https://anilist.co/manga/113636) (07:20, 24 October 2021)
--   📖 Read chapter 33 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (07:20, 24 October 2021)
+-   📖 Read chapter 103 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (19:31, 24 October 2021)
+-   📖 Read chapter 37 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (19:26, 24 October 2021)
+-   📖 Read chapter 33 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (19:20, 24 October 2021)
+-   📖 Read chapter 29 of [Ryoumin 0-Nin Start no Henkyou Ryoushu-sama](https://anilist.co/manga/106770) (19:20, 24 October 2021)
+-   📖 Read chapter 127 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (19:19, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
