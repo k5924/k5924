@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 - 17 of [Moto Kouzou Kaiseki Kenkyuusho no Isekai Boukentan](https://anilist.co/manga/122873) (06:48, 25 October 2021)
+-   📖 Read chapter 47 - 50 of [Tensei Kizoku Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuidanode, Yuushuuna Jinzai wo Fuyashite Itara, Saikyou Ryouchi ni Natteta](https://anilist.co/manga/121753) (06:45, 25 October 2021)
+-   📖 Read chapter 41 of [Nega-kun to Poji-chan](https://anilist.co/manga/112304) (06:44, 25 October 2021)
 -   📖 Read chapter 43 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (04:30, 25 October 2021)
 -   📖 Read chapter 103 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (19:31, 24 October 2021)
--   📖 Read chapter 37 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (19:26, 24 October 2021)
--   📖 Read chapter 33 of [Tutorial Neomu Eoryeopda](https://anilist.co/manga/129632) (19:20, 24 October 2021)
--   📖 Read chapter 29 of [Ryoumin 0-Nin Start no Henkyou Ryoushu-sama](https://anilist.co/manga/106770) (19:20, 24 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
