@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 16 - 17 of [Moto Kouzou Kaiseki Kenkyuusho no Isekai Boukentan](https://anilist.co/manga/122873) (06:48, 25 October 2021)
--   📖 Read chapter 47 - 50 of [Tensei Kizoku Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuidanode, Yuushuuna Jinzai wo Fuyashite Itara, Saikyou Ryouchi ni Natteta](https://anilist.co/manga/121753) (06:45, 25 October 2021)
--   📖 Read chapter 41 of [Nega-kun to Poji-chan](https://anilist.co/manga/112304) (06:44, 25 October 2021)
--   📖 Read chapter 43 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (04:30, 25 October 2021)
--   📖 Read chapter 103 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (19:31, 24 October 2021)
+-   📖 Read chapter 15 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (19:52, 25 October 2021)
+-   📖 Read chapter 46 of [Classroom of the Elite](https://anilist.co/manga/96798) (19:48, 25 October 2021)
+-   📖 Read chapter 67 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:47, 25 October 2021)
+-   📖 Read chapter 8 of [Akuyaku Reijou ni Nanka Narimasen. Watashi wa "Futsu" no Koushaku Reijou desu!](https://anilist.co/manga/117055) (19:47, 25 October 2021)
+-   📖 Read chapter 69 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (19:44, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
