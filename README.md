@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [I Am the Real One](https://anilist.co/manga/124783) (05:00, 26 October 2021)
+-   📖 Read chapter 78 of [Omniscient Reader](https://anilist.co/manga/119257) (04:49, 26 October 2021)
+-   📖 Read chapter 58 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (04:48, 26 October 2021)
+-   📖 Read chapter 161 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (04:48, 26 October 2021)
 -   📖 Read chapter 15 of [Negai wo Kanaete Moraou to Akuma wo Shoukan Shita kedo, Kawaikatta node Kekkon Shimashita: Akuma no Niizuma](https://anilist.co/manga/121762) (19:52, 25 October 2021)
--   📖 Read chapter 46 of [Classroom of the Elite](https://anilist.co/manga/96798) (19:48, 25 October 2021)
--   📖 Read chapter 67 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (19:47, 25 October 2021)
--   📖 Read chapter 8 of [Akuyaku Reijou ni Nanka Narimasen. Watashi wa "Futsu" no Koushaku Reijou desu!](https://anilist.co/manga/117055) (19:47, 25 October 2021)
--   📖 Read chapter 69 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (19:44, 25 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
