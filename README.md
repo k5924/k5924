@@ -97,9 +97,9 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 - 26 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (19:26, 26 October 2021)
 -   📖 Read chapter 34 of [Magi Craft Meister](https://anilist.co/manga/99920) (18:26, 26 October 2021)
 -   📖 Read chapter 26 of [Realist Maou ni Yoru Seiiki Naki Isekai Kaikaku](https://anilist.co/manga/107611) (18:26, 26 October 2021)
--   📖 Read chapter 25 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (18:15, 26 October 2021)
 -   📖 Read chapter 28 of [Chillin’ in Another World with Level 2 Super Cheat Powers](https://anilist.co/manga/107120) (18:15, 26 October 2021)
 -   📖 Read chapter 22 - 27 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:06, 26 October 2021)
 
