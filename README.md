@@ -97,8 +97,8 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 - 27 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (18:06, 26 October 2021)
 -   📖 Read chapter 97 of [Shark](https://anilist.co/manga/131468) (16:19, 26 October 2021)
--   📖 Read chapter 22 - 26 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (16:16, 26 October 2021)
 -   📖 Read chapter 228 of [Tokyo Revengers](https://anilist.co/manga/102988) (16:14, 26 October 2021)
 -   📖 Read chapter 47 of [Maken no Daydreamer](https://anilist.co/manga/97150) (16:14, 26 October 2021)
 -   📖 Read chapter 25 of ["Kouryakuhon" wo Kushi Suru Saikyou no Mahoutsukai: <Meirei sa Sero> to wa Iwa Senai Oreryuu Mao Tobatsu Saizen Ruuto](https://anilist.co/manga/111361) (16:14, 26 October 2021)
