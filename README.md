@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (16:15, 26 October 2021)
+-   📖 Read chapter 228 of [Tokyo Revengers](https://anilist.co/manga/102988) (16:14, 26 October 2021)
+-   📖 Read chapter 47 of [Maken no Daydreamer](https://anilist.co/manga/97150) (16:14, 26 October 2021)
+-   📖 Read chapter 25 of ["Kouryakuhon" wo Kushi Suru Saikyou no Mahoutsukai: <Meirei sa Sero> to wa Iwa Senai Oreryuu Mao Tobatsu Saizen Ruuto](https://anilist.co/manga/111361) (16:14, 26 October 2021)
 -   📖 Read chapter 82 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (08:34, 26 October 2021)
--   📖 Read chapter 57 of [I Am the Real One](https://anilist.co/manga/124783) (05:00, 26 October 2021)
--   📖 Read chapter 78 of [Omniscient Reader](https://anilist.co/manga/119257) (04:49, 26 October 2021)
--   📖 Read chapter 58 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (04:48, 26 October 2021)
--   📖 Read chapter 161 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (04:48, 26 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
