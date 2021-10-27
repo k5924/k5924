@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 of [Geupsigappa](https://anilist.co/manga/130717) (20:35, 27 October 2021)
 -   📖 Read chapter 171 of [Solo Leveling](https://anilist.co/manga/105398) (17:34, 27 October 2021)
 -   📖 Read chapter 25 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (17:31, 27 October 2021)
 -   📖 Read chapter 98 - 99 of [Shark](https://anilist.co/manga/131468) (17:29, 27 October 2021)
 -   📖 Read chapter 162 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (17:28, 27 October 2021)
--   📖 Read chapter 18 of [DUNGEON DIVE: Aim for the Deepest Level](https://anilist.co/manga/110837) (17:27, 27 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
