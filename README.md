@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 75 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (04:28, 27 October 2021)
--   📖 Read chapter 60 of [Toorigakari ni One Point Advice Shiteiku Type no Yankee](https://anilist.co/manga/114913) (22:16, 26 October 2021)
--   📖 Read chapter 25 - 26 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (19:26, 26 October 2021)
--   📖 Read chapter 34 of [Magi Craft Meister](https://anilist.co/manga/99920) (18:26, 26 October 2021)
--   📖 Read chapter 26 of [Realist Maou ni Yoru Seiiki Naki Isekai Kaikaku](https://anilist.co/manga/107611) (18:26, 26 October 2021)
+-   📖 Read chapter 171 of [Solo Leveling](https://anilist.co/manga/105398) (17:34, 27 October 2021)
+-   📖 Read chapter 25 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (17:31, 27 October 2021)
+-   📖 Read chapter 98 - 99 of [Shark](https://anilist.co/manga/131468) (17:29, 27 October 2021)
+-   📖 Read chapter 162 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (17:28, 27 October 2021)
+-   📖 Read chapter 18 of [DUNGEON DIVE: Aim for the Deepest Level](https://anilist.co/manga/110837) (17:27, 27 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
