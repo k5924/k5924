@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:40, 28 October 2021)
--   📖 Read chapter 242 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (17:36, 28 October 2021)
--   📖 Read chapter 20 of [Killer in Love](https://anilist.co/manga/128163) (17:35, 28 October 2021)
--   📖 Read chapter 48 of [Kaiju No.8](https://anilist.co/manga/120760) (17:33, 28 October 2021)
--   📖 Read chapter 28 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (17:33, 28 October 2021)
+-   📖 Read chapter 56 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:43, 28 October 2021)
+-   📖 Read chapter 112 of [Descent of the Demon Master](https://anilist.co/manga/113607) (20:41, 28 October 2021)
+-   📖 Read chapter 40 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (20:37, 28 October 2021)
+-   📖 Read chapter 57 of [Juujika no Rokunin](https://anilist.co/manga/116671) (20:37, 28 October 2021)
+-   📖 Read chapter 34 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (20:36, 28 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
