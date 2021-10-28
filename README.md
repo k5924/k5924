@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 73 - 74 of [Yankee-kun to Hakujou Girl](https://anilist.co/manga/107445) (06:46, 28 October 2021)
--   📖 Read chapter 28 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (06:29, 28 October 2021)
--   📖 Read chapter 54 of [Record of Ragnarok](https://anilist.co/manga/107098) (04:27, 28 October 2021)
--   📖 Read chapter 27 of [Yondome wa Iyana Shi Zokusei Majutsushi](https://anilist.co/manga/103203) (04:26, 28 October 2021)
--   📖 Read chapter 91 - 92 of [Oktapbang Sword Master](https://anilist.co/manga/122395) (04:25, 28 October 2021)
+-   📖 Read chapter 34 of [The Eminence in Shadow](https://anilist.co/manga/106758) (17:40, 28 October 2021)
+-   📖 Read chapter 242 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (17:36, 28 October 2021)
+-   📖 Read chapter 20 of [Killer in Love](https://anilist.co/manga/128163) (17:35, 28 October 2021)
+-   📖 Read chapter 48 of [Kaiju No.8](https://anilist.co/manga/120760) (17:33, 28 October 2021)
+-   📖 Read chapter 28 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (17:33, 28 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
