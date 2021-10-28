@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 54 of [Record of Ragnarok](https://anilist.co/manga/107098) (04:27, 28 October 2021)
+-   📖 Read chapter 27 of [Yondome wa Iyana Shi Zokusei Majutsushi](https://anilist.co/manga/103203) (04:26, 28 October 2021)
+-   📖 Read chapter 91 - 92 of [Oktapbang Sword Master](https://anilist.co/manga/122395) (04:25, 28 October 2021)
 -   📖 Read chapter 40 of [Geupsigappa](https://anilist.co/manga/130717) (20:35, 27 October 2021)
 -   📖 Read chapter 171 of [Solo Leveling](https://anilist.co/manga/105398) (17:34, 27 October 2021)
--   📖 Read chapter 25 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (17:31, 27 October 2021)
--   📖 Read chapter 98 - 99 of [Shark](https://anilist.co/manga/131468) (17:29, 27 October 2021)
--   📖 Read chapter 162 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (17:28, 27 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
