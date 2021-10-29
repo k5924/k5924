@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (22:04, 29 October 2021)
+-   📖 Read chapter 24 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (22:01, 29 October 2021)
 -   📖 Read chapter 137 of [Medical Hwansaeng](https://anilist.co/manga/112197) (20:26, 29 October 2021)
 -   📖 Read chapter 29 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (20:02, 29 October 2021)
 -   📖 Read chapter 55 of [Record of Ragnarok](https://anilist.co/manga/107098) (20:02, 29 October 2021)
--   📖 Read chapter 31 of [Chikan Saresou ni Natteiru S-kyuu Bishoujo wo Tasuketara Tonari no Seki no Osananajimi datta](https://anilist.co/manga/125280) (16:18, 29 October 2021)
--   📖 Read chapter 41 - 42 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (09:03, 29 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
