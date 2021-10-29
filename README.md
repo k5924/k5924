@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Chikan Saresou ni Natteiru S-kyuu Bishoujo wo Tasuketara Tonari no Seki no Osananajimi datta](https://anilist.co/manga/125280) (16:18, 29 October 2021)
 -   📖 Read chapter 41 - 42 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (09:03, 29 October 2021)
 -   📖 Read chapter 39 - 40 of [The Evil Princess Dreams of a Gingerbread House](https://anilist.co/manga/135109) (09:02, 29 October 2021)
 -   📖 Read chapter 60 of [Lout of Count’s Family](https://anilist.co/manga/123573) (09:02, 29 October 2021)
 -   📖 Read chapter 63 of [My Dress-Up Darling](https://anilist.co/manga/101583) (06:18, 29 October 2021)
--   📖 Read chapter 131 - 132 of [Hajimete no Gal](https://anilist.co/manga/87315) (06:14, 29 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
