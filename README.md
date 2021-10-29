@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 of [Hajimete no Gal](https://anilist.co/manga/87315) (05:58, 29 October 2021)
+-   📖 Read chapter 30 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (05:56, 29 October 2021)
 -   📖 Read chapter 56 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:43, 28 October 2021)
 -   📖 Read chapter 112 of [Descent of the Demon Master](https://anilist.co/manga/113607) (20:41, 28 October 2021)
 -   📖 Read chapter 40 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (20:37, 28 October 2021)
--   📖 Read chapter 57 of [Juujika no Rokunin](https://anilist.co/manga/116671) (20:37, 28 October 2021)
--   📖 Read chapter 34 of [Hwangnyeonimi Saakasyeo](https://anilist.co/manga/121329) (20:36, 28 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
