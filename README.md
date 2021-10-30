@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (22:10, 29 October 2021)
--   📖 Read chapter 31 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (22:04, 29 October 2021)
--   📖 Read chapter 24 of [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (22:01, 29 October 2021)
--   📖 Read chapter 137 of [Medical Hwansaeng](https://anilist.co/manga/112197) (20:26, 29 October 2021)
--   📖 Read chapter 29 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (20:02, 29 October 2021)
+-   📖 Read chapter 34 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (08:31, 30 October 2021)
+-   📖 Read chapter 200 - 201 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (08:31, 30 October 2021)
+-   📖 Read chapter 75 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (08:29, 30 October 2021)
+-   📖 Read chapter 46 of [Solitary Lady](https://anilist.co/manga/133575) (08:28, 30 October 2021)
+-   📖 Read chapter 61 of [Toorigakari ni One Point Advice Shiteiku Type no Yankee](https://anilist.co/manga/114913) (08:28, 30 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
