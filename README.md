@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 32 of [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (16:55, 30 October 2021)
--   📖 Dropped [Tricked into Becoming the Heroine's Stepmother](https://anilist.co/manga/133021) (16:53, 30 October 2021)
--   📖 Read chapter 88 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (12:28, 30 October 2021)
--   📖 Read chapter 34 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (08:31, 30 October 2021)
--   📖 Read chapter 200 - 201 of [The Duke of Death and His Maid](https://anilist.co/manga/100293) (08:31, 30 October 2021)
+-   📖 Read chapter 51 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (17:46, 30 October 2021)
+-   📖 Dropped [Osake no Tame ni Otomege Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita](https://anilist.co/manga/122969) (17:23, 30 October 2021)
+-   📖 Read chapter 17 of [Osake no Tame ni Otomege Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita](https://anilist.co/manga/122969) (17:23, 30 October 2021)
+-   📖 Dropped [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (17:23, 30 October 2021)
+-   📖 Read chapter 30 of [Doujima-kun wa Doujinai](https://anilist.co/manga/123164) (17:23, 30 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
