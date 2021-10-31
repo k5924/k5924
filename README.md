@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.](https://anilist.co/manga/107980) (22:22, 31 October 2021)
+-   📖 Read chapter 34 of [The Tutorial Is Too Tough!](https://anilist.co/manga/129632) (22:19, 31 October 2021)
 -   📖 Read chapter 104 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (17:55, 31 October 2021)
 -   📖 Read chapter 38 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (17:49, 31 October 2021)
 -   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (17:49, 31 October 2021)
--   📖 Read chapter 100 of [Shark](https://anilist.co/manga/131468) (17:46, 31 October 2021)
--   📖 Read chapter 55 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:43, 31 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
