@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 359 of [Lookism](https://anilist.co/manga/86848) (09:08, 31 October 2021)
--   📖 Read chapter 57 of [Get Schooled](https://anilist.co/manga/128521) (09:04, 31 October 2021)
--   📖 Read chapter 37 of [Sacrificed](https://anilist.co/manga/133013) (09:03, 31 October 2021)
--   📖 Read chapter 171 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (09:01, 31 October 2021)
--   📖 Read chapter 106 of [Viral Hit](https://anilist.co/manga/121991) (09:01, 31 October 2021)
+-   📖 Read chapter 104 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (17:55, 31 October 2021)
+-   📖 Read chapter 38 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (17:49, 31 October 2021)
+-   📖 Read chapter 226 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (17:49, 31 October 2021)
+-   📖 Read chapter 100 of [Shark](https://anilist.co/manga/131468) (17:46, 31 October 2021)
+-   📖 Read chapter 55 of [SPY x FAMILY](https://anilist.co/manga/108556) (17:43, 31 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
