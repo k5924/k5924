@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 18 of [Hachigatsu Kokonoka Boku wa Kimi ni Kuwareru.](https://anilist.co/manga/122604) (20:29, 30 October 2021)
--   📖 Read chapter 14 - 15 of [Enzai de Shokei Sareta Koushaku Reijou wa Konse de wa Mofu Kami-sama to Odayaka ni Sugoshitai](https://anilist.co/manga/121312) (20:29, 30 October 2021)
--   📖 Read chapter 51 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (17:46, 30 October 2021)
--   📖 Dropped [Osake no Tame ni Otomege Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita](https://anilist.co/manga/122969) (17:23, 30 October 2021)
--   📖 Read chapter 17 of [Osake no Tame ni Otomege Setting wo Buchikowashita Kekka, Akuyaku Reijou ga Cheat Reijou ni Narimashita](https://anilist.co/manga/122969) (17:23, 30 October 2021)
+-   📖 Read chapter 359 of [Lookism](https://anilist.co/manga/86848) (09:08, 31 October 2021)
+-   📖 Read chapter 57 of [Get Schooled](https://anilist.co/manga/128521) (09:04, 31 October 2021)
+-   📖 Read chapter 37 of [Sacrificed](https://anilist.co/manga/133013) (09:03, 31 October 2021)
+-   📖 Read chapter 171 of [A Returner's Magic Should Be Special](https://anilist.co/manga/105393) (09:01, 31 October 2021)
+-   📖 Read chapter 106 of [Viral Hit](https://anilist.co/manga/121991) (09:01, 31 October 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
