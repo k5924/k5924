@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:50, 01 November 2021)
+-   📖 Read chapter 163 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (18:46, 01 November 2021)
+-   📖 Read chapter 68 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:45, 01 November 2021)
+-   📖 Read chapter 41 of [The Evil Princess Dreams of a Gingerbread House](https://anilist.co/manga/135109) (18:44, 01 November 2021)
 -   📖 Read chapter 95 - 96 of [Biroe-do](https://anilist.co/manga/127848) (10:38, 01 November 2021)
--   📖 Read chapter 58 of [My Gently Raised Beast](https://anilist.co/manga/127868) (10:35, 01 November 2021)
--   📖 Read chapter 112 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (06:23, 01 November 2021)
--   📖 Read chapter 99 - 100 of [God of Blackfield](https://anilist.co/manga/118267) (06:22, 01 November 2021)
--   📖 Read chapter 104 of [Second Life Ranker](https://anilist.co/manga/109957) (06:13, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
