@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 101 of [Shark](https://anilist.co/manga/131468) (17:49, 02 November 2021)
+-   📖 Read chapter 42 of [Fuufu Ijou, Koibito Miman.](https://anilist.co/manga/105011) (17:44, 02 November 2021)
+-   📖 Read chapter 150 of [Blue Lock](https://anilist.co/manga/106130) (17:41, 02 November 2021)
 -   📖 Read chapter 132 of [I Belong to House Castielo](https://anilist.co/manga/106680) (08:02, 02 November 2021)
 -   📖 Read chapter 79 of [Omniscient Reader](https://anilist.co/manga/119257) (08:01, 02 November 2021)
--   📖 Read chapter 329 of [Komi Can't Communicate](https://anilist.co/manga/97852) (07:47, 02 November 2021)
--   📖 Read chapter 137 of [His Women's University](https://anilist.co/manga/113202) (07:43, 02 November 2021)
--   📖 Read chapter 89 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (07:10, 02 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
