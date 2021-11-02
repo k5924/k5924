@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 132 of [I Belong to House Castielo](https://anilist.co/manga/106680) (08:02, 02 November 2021)
+-   📖 Read chapter 79 of [Omniscient Reader](https://anilist.co/manga/119257) (08:01, 02 November 2021)
+-   📖 Read chapter 329 of [Komi Can't Communicate](https://anilist.co/manga/97852) (07:47, 02 November 2021)
+-   📖 Read chapter 137 of [His Women's University](https://anilist.co/manga/113202) (07:43, 02 November 2021)
 -   📖 Read chapter 89 of [That Time I Got Reincarnated as a Slime](https://anilist.co/manga/86399) (07:10, 02 November 2021)
--   📖 Read chapter 229 of [Tokyo Revengers](https://anilist.co/manga/102988) (21:33, 01 November 2021)
--   📖 Read chapter 89 of [Kaette kudasai! Akutsu-san](https://anilist.co/manga/113501) (18:50, 01 November 2021)
--   📖 Read chapter 163 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (18:46, 01 November 2021)
--   📖 Read chapter 68 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (18:45, 01 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
