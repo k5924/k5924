@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 37 of [Isekai Yakkyoku](https://anilist.co/manga/99024) (05:36, 03 November 2021)
+-   📖 Read chapter 59 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (05:35, 03 November 2021)
 -   📖 Read chapter 101 of [Shark](https://anilist.co/manga/131468) (17:49, 02 November 2021)
 -   📖 Read chapter 42 of [Fuufu Ijou, Koibito Miman.](https://anilist.co/manga/105011) (17:44, 02 November 2021)
 -   📖 Read chapter 150 of [Blue Lock](https://anilist.co/manga/106130) (17:41, 02 November 2021)
--   📖 Read chapter 132 of [I Belong to House Castielo](https://anilist.co/manga/106680) (08:02, 02 November 2021)
--   📖 Read chapter 79 of [Omniscient Reader](https://anilist.co/manga/119257) (08:01, 02 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
