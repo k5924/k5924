@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 172 of [Solo Leveling](https://anilist.co/manga/105398) (18:16, 03 November 2021)
--   📖 Read chapter 93 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (18:06, 03 November 2021)
--   📖 Read chapter 22 of [Joou Heika no Isekai Strategy](https://anilist.co/manga/123261) (18:06, 03 November 2021)
--   📖 Read chapter 90 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (18:03, 03 November 2021)
--   📖 Read chapter 37 of [Isekai Yakkyoku](https://anilist.co/manga/99024) (05:36, 03 November 2021)
+-   📖 Read chapter 32 of [I Got Caught Up In a Hero Summons, but the Other World was at Peace!](https://anilist.co/manga/112956) (06:00, 04 November 2021)
+-   📖 Read chapter 76 - 77 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (05:57, 04 November 2021)
+-   📖 Read chapter 30 of [Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakkatan Daga](https://anilist.co/manga/105279) (05:56, 04 November 2021)
+-   📖 Read chapter 64 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (05:56, 04 November 2021)
+-   📖 Read chapter 58 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:56, 04 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
