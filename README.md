@@ -98,11 +98,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin](https://anilist.co/manga/99775) (06:25, 04 November 2021)
 -   📖 Read chapter 32 of [I Got Caught Up In a Hero Summons, but the Other World was at Peace!](https://anilist.co/manga/112956) (06:00, 04 November 2021)
 -   📖 Read chapter 76 - 77 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (05:57, 04 November 2021)
 -   📖 Read chapter 30 of [Mushoku no Eiyuu: Betsu ni Skill nanka Ira Nakkatan Daga](https://anilist.co/manga/105279) (05:56, 04 November 2021)
 -   📖 Read chapter 64 of [Koi Shita no de Haishin Shite Mita](https://anilist.co/manga/112342) (05:56, 04 November 2021)
--   📖 Read chapter 58 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:56, 04 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
