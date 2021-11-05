@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 113 of [Descent of the Demon Master](https://anilist.co/manga/113607) (05:43, 05 November 2021)
+-   📖 Read chapter 61 of [Rettougan no Tensei Majutsushi: Shiitagerareta Moto Yuusha wa Mirai no Sekai wo Yoyuu de Ikinuku](https://anilist.co/manga/109140) (05:36, 05 November 2021)
+-   📖 Read chapter 32 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (05:31, 05 November 2021)
 -   📖 Read chapter 89 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (19:08, 04 November 2021)
 -   📖 Read chapter 53 - 54 of [Appaga Nomu Kangham](https://anilist.co/manga/122110) (19:06, 04 November 2021)
--   📖 Read chapter 52 of [TenPuru -No One Can Live on Loneliness-](https://anilist.co/manga/109122) (19:06, 04 November 2021)
--   📖 Read chapter 44 of [Chiyu Mahou no Machigatta Tsukaikata: Senjou wo Kakeru Kaifuku Youin](https://anilist.co/manga/99775) (06:25, 04 November 2021)
--   📖 Read chapter 32 of [I Got Caught Up In a Hero Summons, but the Other World was at Peace!](https://anilist.co/manga/112956) (06:00, 04 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
