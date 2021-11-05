@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 243 of [Kaguya-sama: Love is War](https://anilist.co/manga/86635) (17:12, 05 November 2021)
+-   📖 Read chapter 164 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (16:58, 05 November 2021)
 -   📖 Read chapter 215 - 216 of [Kakao 79%](https://anilist.co/manga/87411) (15:10, 05 November 2021)
 -   📖 Read chapter 113 of [Descent of the Demon Master](https://anilist.co/manga/113607) (05:43, 05 November 2021)
 -   📖 Read chapter 61 of [Rettougan no Tensei Majutsushi: Shiitagerareta Moto Yuusha wa Mirai no Sekai wo Yoyuu de Ikinuku](https://anilist.co/manga/109140) (05:36, 05 November 2021)
--   📖 Read chapter 32 of [Kenja ga Nakama ni Natta!](https://anilist.co/manga/130548) (05:31, 05 November 2021)
--   📖 Read chapter 89 of [Meika-san wa Oshikorosenai](https://anilist.co/manga/115149) (19:08, 04 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
