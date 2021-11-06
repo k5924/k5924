@@ -97,11 +97,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 61 of [[Oshi no Ko]](https://anilist.co/manga/117195) (20:01, 05 November 2021)
--   📖 Read chapter 57 of [Teenage Mercenary](https://anilist.co/manga/126297) (20:00, 05 November 2021)
--   📖 Read chapter 43 of [Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru](https://anilist.co/manga/107780) (19:57, 05 November 2021)
--   📖 Read chapter 51 - 53 of [Tensei Kizoku Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuidanode, Yuushuuna Jinzai wo Fuyashite Itara, Saikyou Ryouchi ni Natteta](https://anilist.co/manga/121753) (19:57, 05 November 2021)
--   📖 Read chapter 55 of [Kemono Jihen](https://anilist.co/manga/98466) (17:19, 05 November 2021)
+-   📖 Read chapter 138 of [Medical Hwansaeng](https://anilist.co/manga/112197) (08:42, 06 November 2021)
+-   📖 Read chapter 227 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (08:39, 06 November 2021)
+-   📖 Read chapter 47 of [Classroom of the Elite](https://anilist.co/manga/96798) (08:33, 06 November 2021)
+-   📖 Read chapter 62 of [Rettougan no Tensei Majutsushi: Shiitagerareta Moto Yuusha wa Mirai no Sekai wo Yoyuu de Ikinuku](https://anilist.co/manga/109140) (08:33, 06 November 2021)
+-   📖 Read chapter 37 of [Bokutachi wa Hanshoku wo Yameta](https://anilist.co/manga/126603) (08:32, 06 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
