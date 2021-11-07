@@ -94,11 +94,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 360 of [Lookism](https://anilist.co/manga/86848) (08:05, 07 November 2021)
--   📖 Read chapter 102 of [Shark](https://anilist.co/manga/131468) (22:12, 06 November 2021)
--   📖 Read chapter 22 - 25 of [Geu Chaege Maeumeul Juji Maseyo](https://anilist.co/manga/121639) (14:32, 06 November 2021)
--   📖 Read chapter 128 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (14:30, 06 November 2021)
--   📖 Read chapter 32 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (09:50, 06 November 2021)
+-   📖 Read chapter 83 - 84 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (10:10, 07 November 2021)
+-   📖 Read chapter 43 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (10:05, 07 November 2021)
+-   📖 Read chapter 63 - 64 of [Caught by the Villain](https://anilist.co/manga/124481) (10:05, 07 November 2021)
+-   📖 Read chapter 32 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (10:02, 07 November 2021)
+-   📖 Read chapter 47 of [Solitary Lady](https://anilist.co/manga/133575) (10:01, 07 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
