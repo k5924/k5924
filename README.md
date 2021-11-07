@@ -94,11 +94,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 40 - 44 of [Level-Up Motaneun Player](https://anilist.co/manga/130511) (20:27, 07 November 2021)
 -   📖 Read chapter 105 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (18:38, 07 November 2021)
 -   📖 Read chapter 39 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (18:34, 07 November 2021)
 -   📖 Read chapter 73 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (18:31, 07 November 2021)
 -   📖 Read chapter 32 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (18:19, 07 November 2021)
--   📖 Read chapter 35 of [The Tutorial Is Too Tough!](https://anilist.co/manga/129632) (18:16, 07 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
