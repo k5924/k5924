@@ -94,11 +94,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 83 - 84 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (10:10, 07 November 2021)
--   📖 Read chapter 43 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (10:05, 07 November 2021)
--   📖 Read chapter 63 - 64 of [Caught by the Villain](https://anilist.co/manga/124481) (10:05, 07 November 2021)
--   📖 Read chapter 32 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (10:02, 07 November 2021)
--   📖 Read chapter 47 of [Solitary Lady](https://anilist.co/manga/133575) (10:01, 07 November 2021)
+-   📖 Read chapter 105 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (18:38, 07 November 2021)
+-   📖 Read chapter 39 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (18:34, 07 November 2021)
+-   📖 Read chapter 73 of [Grand Blue Dreaming](https://anilist.co/manga/87395) (18:31, 07 November 2021)
+-   📖 Read chapter 32 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (18:19, 07 November 2021)
+-   📖 Read chapter 35 of [The Tutorial Is Too Tough!](https://anilist.co/manga/129632) (18:16, 07 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
