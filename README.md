@@ -93,11 +93,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (20:55, 08 November 2021)
 -   📖 Read chapter 97 - 99 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (10:34, 08 November 2021)
 -   📖 Read chapter 59 of [My Gently Raised Beast](https://anilist.co/manga/127868) (10:33, 08 November 2021)
 -   📖 Read chapter 41 of [Revolutionary Princess Eve](https://anilist.co/manga/131263) (10:32, 08 November 2021)
 -   📖 Read chapter 44 - 47 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (10:32, 08 November 2021)
--   📖 Read chapter 107 of [Viral Hit](https://anilist.co/manga/121991) (08:19, 08 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
