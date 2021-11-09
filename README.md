@@ -93,11 +93,11 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 70 of [Hitomi-chan is Shy With Strangers](https://anilist.co/manga/106434) (20:55, 08 November 2021)
--   📖 Read chapter 97 - 99 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (10:34, 08 November 2021)
--   📖 Read chapter 59 of [My Gently Raised Beast](https://anilist.co/manga/127868) (10:33, 08 November 2021)
--   📖 Read chapter 41 of [Revolutionary Princess Eve](https://anilist.co/manga/131263) (10:32, 08 November 2021)
--   📖 Read chapter 44 - 47 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (10:32, 08 November 2021)
+-   📖 Read chapter 44 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (08:10, 09 November 2021)
+-   📖 Read chapter 164 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (08:01, 09 November 2021)
+-   📖 Read chapter 80 of [Omniscient Reader](https://anilist.co/manga/119257) (08:01, 09 November 2021)
+-   📖 Read chapter 78 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (08:00, 09 November 2021)
+-   📖 Read chapter 138 of [His Women's University](https://anilist.co/manga/113202) (07:59, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
