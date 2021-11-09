@@ -93,11 +93,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/manga/116333) (17:00, 09 November 2021)
 -   📖 Read chapter 44 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (08:10, 09 November 2021)
 -   📖 Read chapter 164 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (08:01, 09 November 2021)
 -   📖 Read chapter 80 of [Omniscient Reader](https://anilist.co/manga/119257) (08:01, 09 November 2021)
 -   📖 Read chapter 78 of [Nan Hao Shang Feng](https://anilist.co/manga/117324) (08:00, 09 November 2021)
--   📖 Read chapter 138 of [His Women's University](https://anilist.co/manga/113202) (07:59, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
