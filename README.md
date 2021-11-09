@@ -93,11 +93,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 125 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (22:32, 09 November 2021)
+-   📖 Read chapter 58 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:31, 09 November 2021)
+-   📖 Read chapter 44 - 45 of [The Newlywed Game: How to Save My Husband](https://anilist.co/manga/125382) (22:28, 09 November 2021)
 -   📖 Read chapter 230 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:27, 09 November 2021)
 -   📖 Read chapter 103 - 106 of [Shark](https://anilist.co/manga/131468) (20:26, 09 November 2021)
--   📖 Read chapter 44 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/manga/116333) (17:00, 09 November 2021)
--   📖 Read chapter 44 of [The Strongest Savior's Second Chance](https://anilist.co/manga/112147) (08:10, 09 November 2021)
--   📖 Read chapter 164 of [The Skeleton Soldier Failed to Defend the Dungeon](https://anilist.co/manga/103156) (08:01, 09 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
