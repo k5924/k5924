@@ -96,11 +96,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 125 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (22:32, 09 November 2021)
--   📖 Read chapter 58 of [Teenage Mercenary](https://anilist.co/manga/126297) (22:31, 09 November 2021)
--   📖 Read chapter 44 - 45 of [The Newlywed Game: How to Save My Husband](https://anilist.co/manga/125382) (22:28, 09 November 2021)
--   📖 Read chapter 230 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:27, 09 November 2021)
--   📖 Read chapter 103 - 106 of [Shark](https://anilist.co/manga/131468) (20:26, 09 November 2021)
+-   📖 Read chapter 33 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (06:08, 10 November 2021)
+-   📖 Read chapter 76 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (05:45, 10 November 2021)
+-   📖 Read chapter 60 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (05:45, 10 November 2021)
+-   📖 Read chapter 45 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/manga/116333) (05:45, 10 November 2021)
+-   📖 Read chapter 151 of [Blue Lock](https://anilist.co/manga/106130) (05:45, 10 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
