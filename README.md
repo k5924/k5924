@@ -96,11 +96,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 173 of [Solo Leveling](https://anilist.co/manga/105398) (18:43, 10 November 2021)
+-   📖 Read chapter 60 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103850) (18:31, 10 November 2021)
+-   📖 Read chapter 48 - 49 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (18:31, 10 November 2021)
 -   📖 Read chapter 33 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (06:08, 10 November 2021)
 -   📖 Read chapter 76 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (05:45, 10 November 2021)
--   📖 Read chapter 60 of [Happy Harem Making with the Mightiest Orc!](https://anilist.co/manga/116809) (05:45, 10 November 2021)
--   📖 Read chapter 45 of [Kono Kaisha ni Suki na Hito ga Imasu](https://anilist.co/manga/116333) (05:45, 10 November 2021)
--   📖 Read chapter 151 of [Blue Lock](https://anilist.co/manga/106130) (05:45, 10 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
