@@ -96,11 +96,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 62 of [【Oshi no Ko】](https://anilist.co/manga/117195) (05:58, 11 November 2021)
--   📖 Read chapter 77 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (05:57, 11 November 2021)
--   📖 Read chapter 22 of [Reincarnated as a Dragon Hatchling](https://anilist.co/manga/101468) (05:54, 11 November 2021)
--   📖 Dropped [Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou](https://anilist.co/manga/121204) (05:53, 11 November 2021)
--   📖 Read chapter 59 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:11, 11 November 2021)
+-   📖 Read chapter 114 of [Descent of the Demon Master](https://anilist.co/manga/113607) (21:47, 11 November 2021)
+-   📖 Read chapter 133 - 134 of [I Belong to House Castielo](https://anilist.co/manga/106680) (21:46, 11 November 2021)
+-   📖 Read chapter 113 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (21:38, 11 November 2021)
+-   📖 Read chapter 54 of [Kouritsuchuu Madoushi, Daini no Jinsei de Madou wo Kiwameru](https://anilist.co/manga/86969) (21:38, 11 November 2021)
+-   📖 Read chapter 129 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:28, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
