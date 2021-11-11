@@ -96,11 +96,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 173 of [Solo Leveling](https://anilist.co/manga/105398) (18:43, 10 November 2021)
--   📖 Read chapter 60 of [The Hidden Dungeon Only I Can Enter](https://anilist.co/manga/103850) (18:31, 10 November 2021)
--   📖 Read chapter 48 - 49 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (18:31, 10 November 2021)
--   📖 Read chapter 33 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (06:08, 10 November 2021)
--   📖 Read chapter 76 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (05:45, 10 November 2021)
+-   📖 Read chapter 62 of [【Oshi no Ko】](https://anilist.co/manga/117195) (05:58, 11 November 2021)
+-   📖 Read chapter 77 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (05:57, 11 November 2021)
+-   📖 Read chapter 22 of [Reincarnated as a Dragon Hatchling](https://anilist.co/manga/101468) (05:54, 11 November 2021)
+-   📖 Dropped [Isekai Kenja no Tensei Musou: Game no Chishiki de Isekai Saikyou](https://anilist.co/manga/121204) (05:53, 11 November 2021)
+-   📖 Read chapter 59 of [Juujika no Rokunin](https://anilist.co/manga/116671) (05:11, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
