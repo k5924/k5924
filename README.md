@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 of [The Advanced Player of the Tutorial Tower](https://anilist.co/manga/119276) (10:20, 12 November 2021)
+-   📖 Read chapter 48 - 50 of [Yeonwoo Sunjeong](https://anilist.co/manga/125233) (10:17, 12 November 2021)
+-   📖 Read chapter 73 of [I Woke Up as the Villain](https://anilist.co/manga/126298) (10:14, 12 November 2021)
 -   📖 Read chapter 330 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:41, 12 November 2021)
 -   📖 Read chapter 55 of [Appaga Nomu Kangham](https://anilist.co/manga/122110) (08:40, 12 November 2021)
--   📖 Read chapter 114 of [Descent of the Demon Master](https://anilist.co/manga/113607) (21:47, 11 November 2021)
--   📖 Read chapter 133 - 134 of [I Belong to House Castielo](https://anilist.co/manga/106680) (21:46, 11 November 2021)
--   📖 Read chapter 113 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (21:38, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
