@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 330 of [Komi Can't Communicate](https://anilist.co/manga/97852) (08:41, 12 November 2021)
+-   📖 Read chapter 55 of [Appaga Nomu Kangham](https://anilist.co/manga/122110) (08:40, 12 November 2021)
 -   📖 Read chapter 114 of [Descent of the Demon Master](https://anilist.co/manga/113607) (21:47, 11 November 2021)
 -   📖 Read chapter 133 - 134 of [I Belong to House Castielo](https://anilist.co/manga/106680) (21:46, 11 November 2021)
 -   📖 Read chapter 113 of [Yancha Gal no Anjou-san](https://anilist.co/manga/101315) (21:38, 11 November 2021)
--   📖 Read chapter 54 of [Kouritsuchuu Madoushi, Daini no Jinsei de Madou wo Kiwameru](https://anilist.co/manga/86969) (21:38, 11 November 2021)
--   📖 Read chapter 129 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (21:28, 11 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
