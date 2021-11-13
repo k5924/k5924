@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (09:36, 13 November 2021)
+-   📖 Read chapter 33 of [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (09:33, 13 November 2021)
 -   📖 Read chapter 33 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (09:04, 13 November 2021)
 -   📖 Read chapter 50 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (08:57, 13 November 2021)
 -   📖 Read chapter 44 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (08:56, 13 November 2021)
--   📖 Read chapter 33 - 37 of [My Father is a Tyrant](https://anilist.co/manga/127453) (08:55, 13 November 2021)
--   📖 Read chapter 39 of [Berserk of Gluttony](https://anilist.co/manga/101625) (21:44, 12 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
