@@ -95,11 +95,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 - 110 of [Shark](https://anilist.co/manga/131468) (14:43, 13 November 2021)
 -   📖 Read chapter 24 of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/manga/113647) (11:38, 13 November 2021)
 -   📖 Read chapter 33 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (09:36, 13 November 2021)
 -   📖 Read chapter 33 of [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (09:33, 13 November 2021)
 -   📖 Read chapter 33 of [Dark Hero-ui Ttari Doeneun Beop](https://anilist.co/manga/137836) (09:04, 13 November 2021)
--   📖 Read chapter 50 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (08:57, 13 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
