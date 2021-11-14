@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 of [Get Schooled](https://anilist.co/manga/128521) (18:18, 14 November 2021)
+-   📖 Read chapter 41 of [The Taming of the Tyrant](https://anilist.co/manga/128589) (18:13, 14 November 2021)
 -   📖 Read chapter 56 of [SPY x FAMILY](https://anilist.co/manga/108556) (18:11, 14 November 2021)
 -   📖 Read chapter 65 of [Caught by the Villain](https://anilist.co/manga/124481) (13:17, 14 November 2021)
 -   📖 Read chapter 58 of [I Am the Real One](https://anilist.co/manga/124783) (11:05, 14 November 2021)
--   📖 Read chapter 36 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (09:40, 14 November 2021)
--   📖 Read chapter 59 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:50, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
