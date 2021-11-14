@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 of [Caught by the Villain](https://anilist.co/manga/124481) (13:17, 14 November 2021)
 -   📖 Read chapter 58 of [I Am the Real One](https://anilist.co/manga/124783) (11:05, 14 November 2021)
 -   📖 Read chapter 36 of [Jeokgisaneun Nunmeon Doneul Jotji Anneunda](https://anilist.co/manga/135574) (09:40, 14 November 2021)
 -   📖 Read chapter 59 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:50, 14 November 2021)
 -   📖 Read chapter 34 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (08:46, 14 November 2021)
--   📖 Read chapter 361 of [Lookism](https://anilist.co/manga/86848) (08:46, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
