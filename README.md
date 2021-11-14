@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 228 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (22:31, 13 November 2021)
--   📖 Read chapter 107 - 110 of [Shark](https://anilist.co/manga/131468) (14:43, 13 November 2021)
--   📖 Read chapter 24 of [Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life](https://anilist.co/manga/113647) (11:38, 13 November 2021)
--   📖 Read chapter 33 of [Namjuui Ibyangttari Doeeotseumnida](https://anilist.co/manga/138363) (09:36, 13 November 2021)
--   📖 Read chapter 33 of [Higehiro: After Being Rejected, I Shaved and Took In a High School Runaway](https://anilist.co/manga/105791) (09:33, 13 November 2021)
+-   📖 Read chapter 59 of [Teenage Mercenary](https://anilist.co/manga/126297) (08:50, 14 November 2021)
+-   📖 Read chapter 34 of [Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai](https://anilist.co/manga/123181) (08:46, 14 November 2021)
+-   📖 Read chapter 361 of [Lookism](https://anilist.co/manga/86848) (08:46, 14 November 2021)
+-   📖 Read chapter 51 of [Villain Duke's Precious One](https://anilist.co/manga/129796) (08:39, 14 November 2021)
+-   📖 Read chapter 39 of [Sacrificed](https://anilist.co/manga/133013) (08:34, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
