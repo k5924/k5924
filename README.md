@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 of [Makenshi no Maken Niyoru Maken no Tame no Harem Life](https://anilist.co/manga/109170) (23:33, 14 November 2021)
 -   📖 Read chapter 130 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (22:42, 14 November 2021)
 -   📖 Read chapter 45 of [Level-Up Motaneun Player](https://anilist.co/manga/130511) (22:42, 14 November 2021)
 -   📖 Read chapter 106 of [Mission: Yozakura Family](https://anilist.co/manga/111149) (20:48, 14 November 2021)
 -   📖 Read chapter 52 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (20:46, 14 November 2021)
--   📖 Read chapter 40 of [8-Class Mabeopsaui Hoegwi](https://anilist.co/manga/136331) (20:45, 14 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
