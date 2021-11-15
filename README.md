@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [The Viridescent Tiara](https://anilist.co/manga/125658) (18:13, 15 November 2021)
+-   📖 Read chapter 52 of [Totsuide kita Yome Aisouwarai Bakari Shiteru](https://anilist.co/manga/114164) (18:13, 15 November 2021)
 -   📖 Read chapter 69 of [The Max Level Hero Strikes Back!](https://anilist.co/manga/125636) (17:26, 15 November 2021)
 -   📖 Read chapter 100 - 105 of [Ichizu Bitch-chan](https://anilist.co/manga/119121) (17:25, 15 November 2021)
 -   📖 Read chapter 60 of [My Gently Raised Beast](https://anilist.co/manga/127868) (09:40, 15 November 2021)
--   📖 Read chapter 105 of [The Tyrant's Sister](https://anilist.co/manga/115257) (09:38, 15 November 2021)
--   📖 Read chapter 51 of [Kou-2 ni Time Leap Shita Ore ga, Touji suki Datta Sensei ni Kokutta Kekka](https://anilist.co/manga/107978) (09:37, 15 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
