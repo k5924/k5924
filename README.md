@@ -97,11 +97,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 231 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:58, 16 November 2021)
+-   📖 Read chapter 152 of [Blue Lock](https://anilist.co/manga/106130) (20:55, 16 November 2021)
 -   📖 Read chapter 94 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (05:47, 16 November 2021)
 -   📖 Read chapter 78 of [The 100 Girlfriends Who Really, Really, Really, Really, Really Love You](https://anilist.co/manga/114416) (05:45, 16 November 2021)
 -   📖 Read chapter 131 of [Shikimori's Not Just a Cutie](https://anilist.co/manga/107282) (05:40, 16 November 2021)
--   📖 Read chapter 29 of [Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei](https://anilist.co/manga/102150) (05:40, 16 November 2021)
--   📖 Read chapter 139 of [His Women's University](https://anilist.co/manga/113202) (05:36, 16 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
