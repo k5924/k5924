@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 174 of [Solo Leveling](https://anilist.co/manga/105398) (21:20, 17 November 2021)
+-   📖 Read chapter 108 of [Viral Hit](https://anilist.co/manga/121991) (21:17, 17 November 2021)
+-   📖 Read chapter 23 of [The Most Notorious "Talker" Runs the World's Greatest Clan](https://anilist.co/manga/123463) (21:11, 17 November 2021)
+-   📖 Read chapter 92 of [Kubo Won't Let Me Be Invisible](https://anilist.co/manga/112981) (21:11, 17 November 2021)
 -   📖 Read chapter 45 of [My Three Tyrant Brothers](https://anilist.co/manga/133140) (05:28, 17 November 2021)
--   📖 Read chapter 38 of [My Father is a Tyrant](https://anilist.co/manga/127453) (05:23, 17 November 2021)
--   📖 Read chapter 231 of [Tokyo Revengers](https://anilist.co/manga/102988) (20:58, 16 November 2021)
--   📖 Read chapter 152 of [Blue Lock](https://anilist.co/manga/106130) (20:55, 16 November 2021)
--   📖 Read chapter 94 of [Don't Toy With Me, Miss Nagatoro](https://anilist.co/manga/100664) (05:47, 16 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
