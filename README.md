@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 115 of [Descent of the Demon Master](https://anilist.co/manga/113607) (19:15, 18 November 2021)
 -   📖 Read chapter 331 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:08, 18 November 2021)
 -   📖 Read chapter 77 of [Villains Are Destined to Die](https://anilist.co/manga/118408) (19:06, 18 November 2021)
 -   📖 Read chapter 54 of [The Case Study of Vanitas](https://anilist.co/manga/86568) (19:06, 18 November 2021)
 -   📖 Read chapter 69 - 73 of [Dead Mount Death Play](https://anilist.co/manga/100868) (19:05, 18 November 2021)
--   📖 Read chapter 60 of [Juujika no Rokunin](https://anilist.co/manga/116671) (19:04, 18 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
