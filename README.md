@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [【Oshi no Ko】](https://anilist.co/manga/117195) (19:05, 19 November 2021)
+-   📖 Read chapter 229 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (19:04, 19 November 2021)
+-   📖 Read chapter 29 of [Souda, Baikoku shiyou: Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/manga/124374) (17:37, 19 November 2021)
+-   📖 Read chapter 166 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (17:37, 19 November 2021)
 -   📖 Read chapter 56 of [Appaga Nomu Kangham](https://anilist.co/manga/122110) (07:23, 19 November 2021)
--   📖 Read chapter 48 - 49 of [Ore no Genjitsu wa Renai Game??: Ka to Omottara Inochigake no Game datta](https://anilist.co/manga/102547) (07:22, 19 November 2021)
--   📖 Read chapter 24 of [A-Rank Boukensha no Slow Life](https://anilist.co/manga/109849) (07:10, 19 November 2021)
--   📖 Read chapter 115 of [Descent of the Demon Master](https://anilist.co/manga/113607) (19:15, 18 November 2021)
--   📖 Read chapter 331 of [Komi Can't Communicate](https://anilist.co/manga/97852) (19:08, 18 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
