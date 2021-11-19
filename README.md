@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 140 of [Medical Hwansaeng](https://anilist.co/manga/112197) (22:58, 19 November 2021)
 -   📖 Read chapter 35 of [Magi Craft Meister](https://anilist.co/manga/99920) (22:04, 19 November 2021)
 -   📖 Read chapter 129 of [My Life as an Internet Novel](https://anilist.co/manga/110059) (21:17, 19 November 2021)
 -   📖 Read chapter 62 of [Lout of Count’s Family](https://anilist.co/manga/123573) (21:10, 19 November 2021)
 -   📖 Read chapter 53 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:12, 19 November 2021)
--   📖 Read chapter 63 of [【Oshi no Ko】](https://anilist.co/manga/117195) (19:05, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
