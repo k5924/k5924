@@ -98,11 +98,11 @@ Dart                     2 repos             ██░░░░░░░░░�
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [SSS-Class Revival Hunter](https://anilist.co/manga/128067) (19:12, 19 November 2021)
 -   📖 Read chapter 63 of [【Oshi no Ko】](https://anilist.co/manga/117195) (19:05, 19 November 2021)
 -   📖 Read chapter 229 of [Mairimashita! Iruma-kun](https://anilist.co/manga/99324) (19:04, 19 November 2021)
 -   📖 Read chapter 29 of [Souda, Baikoku shiyou: Tensai Ouji no Akaji Kokka Saisei Jutsu](https://anilist.co/manga/124374) (17:37, 19 November 2021)
 -   📖 Read chapter 166 of [Jujutsu Kaisen](https://anilist.co/manga/101517) (17:37, 19 November 2021)
--   📖 Read chapter 56 of [Appaga Nomu Kangham](https://anilist.co/manga/122110) (07:23, 19 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 
