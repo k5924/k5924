@@ -14,12 +14,14 @@ href="https://www.hackerrank.com/k1874" target="blank"><img
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
- 
+
 <details>
- <summary>:zap:Statistics</summary>
-[![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)]
-</details>
+ <summary>:zap: Stats</summary>
+
+![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)
  
+</details> 
+
 <details>
 <summary>:blue_book: Most recent blog posts</summary>
 <!-- BLOG-POST-LIST:START --><table><tr>
@@ -35,7 +37,7 @@ src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=Ha
  
 <details> 
 <summary>:moneybag: Donation links</summary>
- 
+
 [![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/k5924)
  [![ko-fi](	https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P12XM2D)
  [![liberapay](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/k5924)
