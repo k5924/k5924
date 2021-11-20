@@ -14,6 +14,9 @@ href="https://www.hackerrank.com/k1874" target="blank"><img
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+
  
 <details>
 <summary>:blue_book: Most recent blog posts</summary>
