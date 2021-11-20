@@ -15,7 +15,7 @@ align="center"
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)
 
  
 <details>
