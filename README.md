@@ -15,7 +15,7 @@ align="center"
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
  alt="k1874"/></a></p>
 
-![Metrics](https://metrics.lecoq.io/k5924?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&music=1&anilist=1&wakatime=1&music.provider=spotify&music.mode=recent&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&music.user=.user.login&anilist.medias=anime%2C%20manga&anilist.sections=watching%2C%20reading&anilist.limit=5&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=K1874&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&config.timezone=Europe%2FLondon&config.display=large)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
  
 <details>
