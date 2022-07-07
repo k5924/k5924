@@ -5,6 +5,11 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a
+ href="https://matrix.to/#/@tr1x:matrix.org" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white"
+ alt="tr1x" /></a>
+<a
  href="https://linkedin.com/in/kbhatti5924" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
