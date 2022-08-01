@@ -18,7 +18,13 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 href="https://www.hackerrank.com/k1874" target="blank"><img 
 align="center" 
 src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
- alt="k1874"/></a></p>
+ alt="k1874"/></a>
+<a 
+href="https://www.youtube.com/channel/UCXjW11EBQXd5Ts8oQ-gT7Wg" target="blank"><img 
+align="center" 
+src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+ alt="tr1x"/></a>
+ </p>
 
 <details>
  <summary>:zap: Stats</summary>
