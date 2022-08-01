@@ -35,3 +35,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=UCXjW11EBQXd5Ts8oQ-gT7Wg
