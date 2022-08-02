@@ -38,3 +38,9 @@ jobs:
           plugin_rss: yes
           plugin_rss_limit: 4
           plugin_rss_source: https://www.youtube.com/feeds/videos.xml?channel_id=UCXjW11EBQXd5Ts8oQ-gT7Wg
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_lines: 4
+          plugin_stackoverflow_lines_snippet: 2
+          plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 19610549
