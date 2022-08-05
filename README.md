@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=k5924&label=Visitors&color=3700ff&style=flat-square" alt="k5924" /> </p>
+![](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
