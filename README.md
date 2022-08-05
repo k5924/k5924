@@ -1,7 +1,5 @@
 ![Header](./header.png)
 
-![](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a
@@ -63,6 +61,6 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 
 </details>
 
-
+![Counter](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
 
 
