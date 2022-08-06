@@ -45,7 +45,7 @@ jobs:
           plugin_music_provider: youtube
           name: Recent posts with descriptions and cover images
           plugin_posts: yes
-          plugin_posts_source: tr1x.hashnode.dev
+          plugin_posts_source: hashnode.dev
           plugin_posts_limit: 2
           plugin_posts_descriptions: yes
           plugin_posts_covers: yes
