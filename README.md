@@ -38,6 +38,10 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
  <summary>:zap: Stats</summary>
 
 ![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)
+
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
  
 </details> 
 
