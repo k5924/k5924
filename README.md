@@ -35,15 +35,24 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
  </p>
 
 <details>
- <summary>:zap: Stats</summary>
+ <summary>:zap: General Stats</summary>
 
 ![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)
-
+</details>
+<details>
+ <summary>:chess_pawn: Chess Stats</summary>
 <!--START_SECTION:chessStats-->
 
 <!--END_SECTION:chessStats-->
+</details>
+<details>
+ <summary>:book: GoodReads Stats</summary>
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+</details>
+
  
-</details> 
+ 
 
 ![Counter](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
 
