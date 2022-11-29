@@ -46,11 +46,12 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 252 | No Rating | No Rating |
+| Current | 173 | No Rating | No Rating |
 | Best | No Rating | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| bigmode55 | **yttr1x** | checkmated ❌ | 28/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1N1k2r/1pBbQppp/p3pn2/3p4/8/6P1/PPP1PPBP/R3K1NR b KQ -">Link</a> | Rapid |
 | **yttr1x** | EliteBestChessPlayer | checkmated ❌ | 27/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4p2/4p1p1/2p1P1p1/P4PP1/1P6/r6P/3r1K2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
