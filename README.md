@@ -71,9 +71,9 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 <details>
  <summary>:ballot_box_with_check: Todoist Stats</summary>
 <!-- TODO-IST:START -->
-🏆  6,309 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 342 tasks so far           
+🏆  6,330 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 346 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
 </details>
