@@ -28,7 +28,7 @@ jobs:
           plugin_anilist_sections: watching, reading
           plugin_anilist_user: tr1x
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_rss: yes
           plugin_rss_limit: 4
