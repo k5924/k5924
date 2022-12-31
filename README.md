@@ -63,16 +63,6 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 <!--END_SECTION:chessStats-->
 </details>
 <details>
- <summary>:book: GoodReads Stats</summary>
-<!-- GOODREADS-LIST:START -->
-- [Java Performance: In-Depth Advice for Tuning and Programming Java 8, 11, and Beyond](https://www.goodreads.com/review/show/5126665071?utm_medium=api&utm_source=rss) by Scott Oaks (⭐️4.41)
-- [86—EIGHTY-SIX, Vol. 1](https://www.goodreads.com/review/show/5126876637?utm_medium=api&utm_source=rss) by Asato Asato (⭐️4.52)
-- [The Eminence in Shadow, Vol. 3 (light novel)](https://www.goodreads.com/review/show/5126873777?utm_medium=api&utm_source=rss) by Daisuke Aizawa (⭐️4.46)
-- [Reckoning (The Beginning After The End #9)](https://www.goodreads.com/review/show/5126871407?utm_medium=api&utm_source=rss) by TurtleMe (⭐️4.78)
-- [SSS-Class Suicide Hunter](https://www.goodreads.com/review/show/5126860425?utm_medium=api&utm_source=rss) by Shin Noah (신노아) (⭐️4.25)
-<!-- GOODREADS-LIST:END -->
-</details>
-<details>
  <summary>:ballot_box_with_check: Todoist Stats</summary>
 <!-- TODO-IST:START -->
 🏆  6,688 Karma Points           
