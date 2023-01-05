@@ -73,6 +73,3 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 </details>
 
 ![Counter](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
-[![monkeytype.badge]](https://monkeytype.com/)
-
-[monkeytype.badge]: https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmonkeytype-badge-vhd5lan7mmhz.runkit.sh
