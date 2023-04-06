@@ -52,7 +52,7 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **yttr1x** | Karens11 | win 🥇 | 8/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6q1/2K5/3n4/1k6/4Qb2/8/8/8 b - -">Link</a> | Rapid |
-| YourOPAKA | **yttr1x** | win 🥇 | 6/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/p1p2kpp/1r6/8/2N1R2P/2P5/P7/K2r4 w - -">Link</a> | Rapid |
+| x-9016632113 | **yttr1x** | win 🥇 | 6/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n6/p1p2kpp/1r6/8/2N1R2P/2P5/P7/K2r4 w - -">Link</a> | Rapid |
 | thienkhang09358 | **yttr1x** | checkmated ❌ | 3/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kb1r/p1pQ1p2/2B1p1p1/1p5p/1P6/2P5/P6P/RNB1K1NR b KQk -">Link</a> | Rapid |
 | **yttr1x** | theThristywo | checkmated ❌ | 1/12/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3r/7p/2n2n2/1p6/8/8/r1q5/1K6 w - -">Link</a> | Rapid |
 | Spicymayo10 | **yttr1x** | insufficient ⏸️ | 30/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/8/8/7k/8/8/8/8 b - -">Link</a> | Rapid |
