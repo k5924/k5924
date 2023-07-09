@@ -7,21 +7,11 @@
 align="center" 
 src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white"
  alt="element/matrix" /></a>
-<a
- href="https://linkedin.com/in/kbhatti5924" target="blank"><img 
+  <a 
+href="https://www.codewars.com/users/tr1x" target="blank"><img 
 align="center" 
-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
- alt="linkedin" /></a>
-<a 
-href="https://www.hackerrank.com/k1874" target="blank"><img 
-align="center" 
-src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
- alt="hackerrank"/></a>
-<a 
-href="https://www.youtube.com/channel/UCXjW11EBQXd5Ts8oQ-gT7Wg" target="blank"><img 
-align="center" 
-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
- alt="youtube"/></a>
+src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"
+ alt="codewars"/></a>
  <a 
 href="https://exercism.org/profiles/k5924" target="blank"><img 
 align="center" 
@@ -38,6 +28,11 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
  <summary>:zap: General Stats</summary>
 
 ![Metrics](https://github.com/k5924/k5924/blob/main/github-metrics.svg)
+</details>
+<details>
+ <summary>📚 Learning Stats</summary>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/643c11c8e2725773748f1b33?variant=dark)](https://roadmap.sh)
 </details>
 <details>
  <summary>:chess_pawn: Chess Stats</summary>
