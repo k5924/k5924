@@ -39,12 +39,6 @@ jobs:
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
           plugin_stackoverflow_user: 19610549
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_source: hashnode
-          plugin_posts_user: tr1x
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
           plugin_16personalities: yes
           plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
           plugin_16personalities_sections: personality, traits
