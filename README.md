@@ -57,14 +57,5 @@ src="https://aleen42.github.io/badges/src/stackoverflow.svg"
 
 <!--END_SECTION:chessStats-->
 </details>
-<details>
- <summary>:ballot_box_with_check: Todoist Stats</summary>
-<!-- TODO-IST:START -->
-🏆  13,420 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,666 tasks so far           
-⏳  Longest streak is 11 days
-<!-- TODO-IST:END -->
-</details>
 
 ![Counter](https://komarev.com/ghpvc/?username=k5924&style=for-the-badge&color=blueviolet)
